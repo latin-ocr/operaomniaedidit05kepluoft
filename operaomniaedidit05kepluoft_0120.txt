@@ -1,0 +1,67 @@
+108 De Figurarum Harmonicar um
+
+Pro latere hendecagoni circumfertur talis descriptio: in circulo ab eodem
+puncto A ducatur latus tetragoni Ac ad unam partem circumferentiae, trigo-
+nicum AD ad contrariam, hexagonicum AB, AF ad
+utramque, et duorum illorum hexagonicorum angulus ΕΑΒ
+subtendatur alio trigonico latere BF, quod secabit prius
+trigonicum AD in (ἒς ducatur etiam a fine tetragonici C
+diameter ΟΕ per I centrum et a fine altero diametri E
+per sectionem trigonicorum G ducatur recta EG, secans
+tetragonicum Ac in H: linea GH inter has duas sectio-
+nes dicitur esse latus undecanguli. Est vero nimis longa,
+vel mechanica docente. At solers geometra speciem li-
+neae considerat, quae necessario communicat aliquid ex
+trigonico et tetragonico lateribus, quantumvis remoto gradu. Atqui numerus
+11, primus existens, nullo modo ad has figuras ducit, cum sit primus, nihil
+cum 3 et cum 4 commune habens. Securus igitur est geometra, falsam esse
+descriptionem et potest facile supersedere labore computandi.
+
+Manet igitur per omnes objectiones, per omnes omnium frustraneos co-
+natus, latera figurarum hujusmodi suapte natura esse *ignota et inscibilia. Ut
+
+rig. 18.
+
+ 
+
+nihil mirum sit, id quod in archetypo mundi non potuit inveniri, neque etiam ·
+
+expressum esse in conformatione ipsius mundi partium.
+
+XLVI. Propositio. Sectio circuli arcus cujuscunque in aequalia tria, ,.·
+quinque, septem etc. et in quacunque ratione, quae non sit antedemonstra- ·'.
+tarum continue dupla, non est de possibilitate geometrica tali, quae scientiam '
+
+genergssfflo arcus in duo et quatuor et octo etc., continue scilicet dupla, geometrica
+
+sane est fuitque hactenus adhibita. In tria contingit secari et totum circulum per tri-
+
+gonum, et semicirculum, ut in hexagono, et quartam partem, ut in dodecagono, *et
+
+quintam, ut in pentekaedecagono , et arcum 135 ⁰, ut in octogono, et arcum 1080, ut
+in decagono. In quinque vero contingit secari similiter et totum circulum, per penta-
+gonum, et semicirculum, ut in decagono‚ et tertiam circuli partem, ut in pentekae-
+decagon0‚ et arcum 150⁰, ut in decagono. Idem verum est de horum arcuum semis-
+sibus quadrantibnsque et ceteris partibus proportionis continue subduplae. At hoc
+non fit propter trisectionis et quinisectionis ingenium, sed per accidens et propter alias
+figurarum proprietates, de quibus hactenus.
+
+At promiscuam trisectionem aut sectionem in alia quacunque ratione proposita,
+quae non sit continue dupla, impossibilem esse, patet ex comparatione bisectionis pos-
+sibilis. In ea medium ad arcum et, quem ille mensurat, angulum bisecandum, est linea
+recta, subtensa arcui, quae in duo aequalia secari potest geometrice, cum aequalita-
+tem harum partium sequatur aequalitas partium: arcus cujuscunque sive parvi sive
+magni respectu totius circuli; ex quo fonte et hoc est, quod in triangulo ab aequali-
+tate laterum licet argumentari ad aequalitatem angulorum oppositorum. Hoc gero me·
+dium nos in ceteris sectionibus deserit. Nam etsi recta, arcui subtemen, secari potest
+in partes quotlibet idque geometrice, at non ideo et proportionem ullam partium sub·
+tensae (post proportionem aequalitatis) sequitur proportio partium arcus; quemadmo-
+dum neque in triangulo licet a proportione laterum quacunque (praeter unam aequa· .
+litatis) argumentari ad eandem proportionem oppositorum angulorum. Nam si sub-
+tensa arcus verbi causa in tria aequalia secetur, si quae secant, perpendiculares in
+subtensam fuerint, media pars arcus erit minor lateralibus: sin ex centro arcus fue·
+rint egressae sectrices, media pars arcus erit maJ‘or lateralibus, Igitur inter distan-
+tiam infinitam et centrum circuli punctum est, ex quo eductae duae sectrices et sub-
+tensam et arcum ejus in tria aequalia secarent. Id vero punctum semper tanto remo-
+tius est ab arcu circuli, quanto minor arcus circuli trisecandus est, proportione tamen
+

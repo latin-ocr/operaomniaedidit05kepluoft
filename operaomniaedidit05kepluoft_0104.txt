@@ -1,0 +1,61 @@
+92 De Figurarum Harmonicarum
+
+quartas potente, tunc minor pars fit elasson. ubi elasson est nomen non com-
+parationis, sed qualitatis3 major vero pars fit mizon alia, rursum qualitative
+intellecta, quaecunque eJus sint elementa
+
+Sit ut prius propositae effabilis longitudo dimidia GA ejusque rursum dimidia
+AM3 ut qualium GA potest 4, possit AM 1. et sit GAM rectus, poterit igitur MGta-
+lium 53 continuetur MA utrinque et centro M intervallo MG scribatur semicirculus
+PGX. Est igitur PX dupla ipsius GM3 quare et PX poterit quinque quartas partes
+de potentia propositae, duplae ipsius GA. Sed PG, GX quadrata juncta sunt aequalia
+quadrato PX, ergo et illa sunt quinque quartae de quadrato propositae effabilis.
+Porro si ex PG, GX feceris lineam unam, ejus quadratum constabit ex duobus qua-
+dratis PG, GX et ex duobus rectangulis sub PG, GX, quibus sunt aequalia duo rect-
+angula sub GA, PX, hoc est’ unum rectangulum sub proposita dupla ipsius GA et
+sub PX, effabilibus duabus, sed sola potentia commensurabilibus: quam ob causam
+rectangulum hoc erit meson, per X. 22. Eucl. Cum ergo quadratum lineae PGX
+totius constet ex quadrato PX effabili et rectangulo meso, ejusdem latitudinis PX:
+quae duo, quadratum PX et rectangulum sub dupla ipsius GA et sub PX, sunt
+aequalia rectangulo, quod continetur sub PX effabili et sub composita ox PX et dupla
+ipsius GA, sola potentia commensurabilibus, quarum partium major PX plus potest
+minore (dupla ipsius ΘΑ), aliqua sibi commensurabili longitudine (potest enim* PX 5,
+qualium dupla ipsius GA potest 4, excessus igitur 1 est quadratum alicujus, quae in-
+commensurabilis est ipsi PX, eo quod 1 ad 5 non sit ut quadratus numerus ad qua-
+dratum) , quibus de causis dicta composita ex PX et GA duplicata est binominis
+quartae speciei: cum, inquam, quadratum totius PGX sit aequale tali rectangulo sub
+apotome quarta et effabili, linea igitur PGX tota erit mizon. Elementa ipsam com-
+ponentia sunt partes PG, GX. Nam quia PA est apotome et Ax binominis, sunt.
+igitur inter se longitudine incommensurabiles. Ut vero PA ad AX, sic quadratum PG
+ad quadratum GX. Ergo PG, GX sunt potentiis et sic simpliciter incommensurabiles
+inter se et faciunt summam quadratorum effabilem, quippe aequalem quadrato PX ’
+reetangulum vero sub PG, ΘΧ meson. Ergo per X. 39. composita ex PG, ΘΧ est
+mizon3 et, per X. 76, ablata PG a GX relinquitur elasson. Atqui tota PGX est
+secta proportionaliter in G. Nam ut PA ad AG, sic PG ad XG. At PA est ipsius
+GA proportionaliter sectae pars major OA, quia MP potest ipsius MA quintuplum,
+et apotome ΑΡ aequalis est AO per Π. 11. Eucl. Ergo et PG est ipsius GX pro-
+portionaliter sectae pars major3 et per XIII. 5 addita PG, pars maior, ad GX totam,
+parit novam totam PGX, proportionaliter sectam in G; ιιι jam PG sit hujus compo-
+sitae pars minor, GX ejus major. Et sic PGX, existens aliqua mizon, secta est eo—
+dem puncto G et in sua elementa, ex quibus mizon denominatur, et simul in suas
+partes proportionis divinae. 6)
+
+Dico, easdem partes proportionaliter sectae esse simul etiam classona et mizona.
+Quia enim ΑΡ est apotome quarta, quod igitur sub ΑΡ apotome et PX effabili, est
+potentia elassonis (Eucl. X. 94), et quia AX est binominis quarta, quod igitur sub hac
+et PX effabili, est mizonis potentia: sed quadrata PG, GX sunt aequalia rectangulis
+APX, AXP, singula singulis, ergo PG est elassou, GX mizon.
+
+Conveniunt igitur hic in unum nomina qualitatum et nomina proportio· ”
+
+num. Nam PG dicitur pars minor respectu totius PGX proportionaliter sectae ἔ
+
+in G, dicitur et linea minor seu elementum minus ipsius PGX totius, ut haec
+est aliqua mizon qualitative, dicitur denique Graece classen, quod sonat La-
+tine minor, qualitativo, respectu aliarum duarum linearum, hic non expressa-
+rum, quarum subtractione unius ab altera ipsa constituitur. Eodem modo
+GX primo dicitur pars maj0r totius PGX proportionaliter sectae 3„ seeundo
+dicitur linea vel elementum maJus lineae totius PGX„ ut haec est qualitative
+mizon suo proprio jure, non minus quam tota PGX suo: sed lineae facientes.
+ipsam ΘΧ mizona compositione sua, non sunt hic expressae.
+

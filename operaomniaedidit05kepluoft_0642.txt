@@ -1,0 +1,63 @@
+624 In stereometriam Doliorum Appendix .
+
+cant, commensurabilia esse nil prohibet: quae vero de curvo nihil habent, ut cubi
+corpus, plane sunt incommensurabilia ad quomodocunque curva.
+
+Explicabo latius.. Diameter circuli est simpliciter recta, circumferentia est sim-
+pliciter curva. 111 plano tamen. Hic ergo plane nulla commensuratio nec longitudinum
+nec potentiarum, primarum, secundarum centesimarumve usque 111 infinitum, neque
+simplicium ‚ neque κατα προσθαφαιρεσιν ῥητου transformatarum. Ita quadratum dia-
+* metri est totum rectum et planitie et terminis; planum inscripti circuli rectum quidem
+est planitie, sed curve· terminatum: haec igitur incommensurabilis. hoc nomine. Et
+tamen haec conditio est vera , si aliqua recta brevissima metiretur circumferentiam,
+ejus rectae quadratum emensurum planum circuli, cum utrumque sit sub genere pla—
+norum. Propterea verissime demonstravit Archimedes, si triangulirectanguli crus alterum
+sit radius, alterum circumferentia in rectum extensa, planum ejus aequale foreplano
+circuli. Si pro radio sit diameter, planum fore duplum ad planum circuli: quodsi trian-
+gulum in parallelogrammum rectangulum transformetur, bisecta circumferentia, idem.
+Esto enim diameter 7, hemiperipheria praecise 11: hoc concesso planum a lateribus
+7, 11 comprehensum certo erit duplum ad circuli planum. Et jam etiam planum sub
+lateribus 7, 14 est duplum ad quadratum de 7. Et ut aequilaterum longitudines 11
+et 14, sic ipsorum plana ad invicem. Conficeretur ergo, circuli planitiem esse 11,
+qualium quadrati 14, si conditio vera esset. Sed jam circumferentia nulla recta, ne
+quidem brevissima mensuratur, nedum ut septima diametri 22ies sumta mensuretur.
+Nam si aliqua recta mensuraretur curvitas in partibus rectae aequalibus,„curva non
+esset, communicaret enim in illis cum rectis et sic pro circumferentia curva
+esset polygonum. Hoc adeo verum est, ut si diameter in particulas infinities infinitas
+secaretur, nulla harum emetiretur 01116111 Hoc respiciens Archimedes vi demonstra-
+tionis per impossibile rectam, curvi mensorem, fingit esse punctum, ejus quadratum
+punctum. Cum enim fiat mensura applicando, solo in puncto recta applicatur curvae.
+His de causis Adr. Romanus seca't circuli diametrum in partes 20000000000000000.
+Harum suut in circumferentia 62831853071795862 fere. Nam unitas addita dicit
+nimium, ablata parum. Qualium itaque diametri quadratum est 40000000000000000,
+planum circuli erit 31415926535897931 fere: bisecando solummodo numerum circum-
+ferentiae, quia diameter habet duo integra. At si circularis plani ad quadratum
+esset proportio quae 11: 14 praecise, tunc qualium in quadrato 40000, essent in
+circuli plano 31428, 11111 statim in millesimis nimium habemus
+
+Porro eadem est solidorum proportio quae planorum, si ad aequalem altitudinem
+corporentur. Haec igitur cylindri in cubo quantitas. Et quia corpus nostri cylindri
+est 82250000, multiplico hoc in quadratum diametri circuli, prodit 329 etc„ et divido
+in circuli planum, prodit numerus 104723932, 554467115. Cujus radix cubica 1⁴171³='’⁵⁶s1„00⁰
+paulo admodum plus, sc. altitudo et diameter cylindri
+
+Jam ut insistamus axiomati nostro, superficiei cylindricae ad quadratum diametri
+ratio eadem est, quae circumferentiae circuli ad diametrum, quie⁴ ducta est utraque
+ad eandem altitudinem 611 planorum generationem. Conus vero in cylindro, basi et
+altitudine eadem, est tertia praecise pars corporis cylindrici: 116111 61 utrumque corpus
+est et utrumque curve terminatum. Denique hemisphaerium duplum est coni, cui
+basis maximus circulus, altitudo radius, et sic sphaera duplum est coni, cui basis pri-
+stina, altitudo diameter3 utraque ergo in cylindrum inclusa, sphaera bes est de corpore
+cylindrico, conus triens. Rursum enim corpulentiae curvis superficiebus circumscribun-
+tur, quae causa est, cur possint fieri commensurabilia.
+
+Demonstrat ex eadem securitate Archimedes, et sphaericam superficiem solam
+perfecte curvam commensurari planomaximi circuli, quia etsi in rectas quantitates
+cadit. curve tamen terminatur. Quadruplum igitur est illud hujus. Ita solus ortus
+primus rectitudinis impedit, quominus recta curvis commensurentur: quod cabalistice
+significat hominis cum Deo cognationem, et discrimen in eo, quod ortum ille habet
+et interitum.
+
+Ad rem Quia de corporis cubi partibus 14 putabantur 11 cedere cylindro, recte
+bes undenarii, sc. 7¹4 dabatur sphaerae, ut de 42 partibus cubi cedant sphaerae 22,
+

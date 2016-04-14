@@ -1,0 +1,58 @@
+280 De Motibus Planetarum Harmonieis.
+
+noncuplo mediocris distantiae Telluris a Sole. Hujus theorematis usus infra
+cap. 9. necessarius erit ad demonstrationem eecentrieitatum.
+
+Nouo. Si jam ipsa verissima itinera diurnaeuJ'usque planetae per auram
+aetheream eadem veluti decempeda volueris metiri, conjungendae* erunt pro-
+portiones duae, una diurnorum arcuum eccentriei verorum (non apparentium),
+altera intervallorum cujusque a Sole mediocrium, quia eadem est et amplitu-
+dinis orbium, hoc est, multiplicandus cujusque planetae arcus
+verus diurnus in sui orbis semidiametrum: quo facto prodibunt
+numeri idonei ad exquirendum, num illa itinera faciant proportiones har-
+monieas.
+
+Decimo. Ut vero habeas, quantam quodlibet talium diurnorum itinerum
+faciat apparentiam, oculo velut in Sole collocato, etsi hoe idem ex astro-
+nomia potest immediate peti, tamen etiam sic patebit, si addideris itinerum
+- proportioni proportionem eversam intervallorum non mediorum, sed verorum,
+quae sunt quovis Ioco eccentricorum, multiplicato itinere superioris
+in intervallum inferioris a Sole et vicissim itinere inferioris
+in intervallum superioris a Sole.
+
+Undecimo. Nec minus etiam ex datis motibus apparentibus, aphelio
+unius et perihelio alterius, vel vicissim alternisve, proportiones eliciuntur in-
+tervallorum aphelii unius ad perihelium alterius; ubi tamen medios motus
+oportet esse praecognitos, sc. proportionem periodicorum temporum eversam,
+ex quibus 'elicitur orbium proportio, per num. VIII. praemissum: tunc sumto
+medio proportionali inter motum alterutrum apparentem et
+suum medium, fit ut hoc medium proportionale ad semidiaa
+metrum orbis, jam patefactam, sic medius motus ad distantiam
+vel, intervallum quaesitum. Sint duorum planetarum periodica tempora
+27 et 8, ergo medii motus diurni illius ad hunc est illa, quaer 8 adx 27,
+quare erunt semidiametri orbium ut 9 ad 4. Nam radix cubica 27 est 3,
+de 8 est 2, harum radicum 3 et 2 quadrata sunt 9 et 4. Sint Jam motus
+apparentes, aphelius unius 2 et perihelius alterius 3373. Media proportio—
+nalia inter motus medios 8 et 27 et hos apparentes erunt 4 et 30. Si ergo
+medium 4 dat mediocrem distantiam planetae 9, tune medius motus 8 dat
+aphelium intervallum 18, respondens apparenti motui 23 et si medium alterum
+30 dat mediocrem distantiam alterius planetae 4, tune medius illius motus 27
+dat perihelium illius intervallum 3²75. Dico igitur, distantiam apheliam illius
+esse ad periheliam hujus, ut 18 ad 3³75. Ex quo patet, quod inventis har-
+moniis inter motus extremos binorum et periodicis temporibus utrique' prae-
+scriptis, necessitentur intervalla extrema et mediocria, quare etiam eccen-
+tricitates.
+
+Duodecimo. Datur etiam, ex unius et ejusdem planetae motibus ex-
+tremis diversis invenire motum medium. Hic enim non praecise est arithme-
+ticum medium inter motus extremos, nee praecise medium geometricum, sed
+tanto minor geometrico medio, quanto medium geometricum minus est quam
+medium inter utrumque. Sint duo motus extremi 8 et 10, medius motus
+erit minor, quam 9, minor etiam quam radix de 80, dimidio ejus, quod est
+inter utrumque, 9 et rad. de 80. Ita si sit aphelius 20, perihelius 24,
+motus medius erit minor quam 22, minor etiam quam radix de 480, dimi-
+dio ejus, quod est inter hanc radicem et 22. Hujus theorematis usus est
+in sequenti
+
+ 
+

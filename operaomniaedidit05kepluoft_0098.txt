@@ -1,0 +1,66 @@
+85 De Figuratum Harmonicarum
+
+ductis diagonalibus. Cum autem omne tale triangulum habeat tres (angulos) duobus
+rectis aequales: in trigonici igitur angulo est pars tertia, in 'tetragonici elementaris
+angulo pars quarta, in pentagonici pars quinta, in heptagonici pars septima. etc.;duo-
+rum rectorum. Et ab hac quantitate anguli incipit demonstratio cujusque.
+
+XI. Definitio. Impropria demonstratio est, cum proportio lateris ad
+
+diametrum ex ipso angulorum numero immediate adhibito nequit determinari
+geometrice, nisi adhibeatur latus figurae alterius, non duplo aut ‘dimidio nu-
+mero laterum.
+
+XII. Definitio. Gradus scientiae diversi sunt, alii remoti, alii pro-
+pinqui. Primus et proximus gradus, cum lineam aliquam scio et demonstrare
+possum esse diametro aequalem, aut planum, licet aliter formatum, quadrato
+diametri aequale.
+
+Hic mensura nota perfecte, scilicet se ipsa et uno actu, mensurat noscibile.
+
+XIII. Definitio. Secundus gradus, cum diametro in aliquot partes
+aequales certo numero divisa, vel ejus quadrato similiter, linea vel planum
+propositum aequatur tali parti vel partibus. Talis linea dicitur Graece ρητη
+μηκει, effabilis longitudine. Planum vero tale simpliciter dicitur ῥητον, effa-
+
+bile. Numerus enim est geometrarum sermo.
+
+Ad hunc scientiae gradum vel per descriptionem inscriptionemque pervenimus,
+vel aliter etiam per cognationem cum alia aliqua quantitate, ad quam per illa media
+perveniebatur. quue non determinat haec qualitas unam aliquam quantitatem3 neque
+enim sufficit ad determinationem, ut sciam, aliquid causa commensurationis sic vel
+sic esse comparatum, oportet etiam hoc scire, quomodo, id est quo numero sit effabile.
+
+XIV. D ef1n1t10 Tertius gradus est hic, cum linea longitudine est
+
+ineffabilis, at ejus quadratum effabile et pertinens ad secundum gradum.
+Dicitur ῥητη δυναμει, effabilis potentia.
+
+XV. Definitio. Qui sequuntur gradus, omnes appellantur ἄλογοι, in—
+effabiles.1nterpretes Ι atini verterunt irrationales, magno ambiguitatis et ab·
+surditatis periculo. Nos sepeliamus hunc vocis usum, quia multae sunt lineae,
+quae quamvis ineffabiles, optimis tamen continentur rationibus. Arithmetici
+consimili translatione appellant numeros surdos, id est qui non plus loquun-
+tur, quam surdus audit: sed sub hoc nomine tam effabiles sola potentia, quam
+ineffabiles quantitates intelligunt. Est igitur quartus in ordine gradus, primus
+vero ineffabilium, quando nec linea nec ejus quadratum sunt effabilia, sed
+tamen quadratum in tale rectangulum transformari potest, cujus latera sint effa-
+bilia saltem potentia. Haec linea dicitur mese (μεση), quia est media proportio-'-
+nalis inter duas effabiles sola potentia commensurabiles: ut si una quidem sit
+effabilis longitudine, altera sola potentia, aut si utraque sola potentia effabi-
+lis, potentiae tamen inter se non sint ut quadratus numerus ad quadratum. 3)
+Talis linea non scitur velrmensuratur longitudine certarum partium aequalium
+diametri, nec ejus quadratum quadrato diametri3 sed nec lineae mensurantur
+a diametro ambae simul, inter quas mese est media proportionalis, sed illa-
+rum linearum quadrata, haec demum a quadrato diametri mensurantur. Qua-
+dratum meses et ipsum meson dicitur, sive sit formae quadratae seu in rect-
+angulum transmutetur3 estque hoc alterum plani genus, post effabile planum.
+Et hisce duobus planis, effabili et meso, sequentes species inter se distin·
+guuntur.
+
+XVI. Definitio. Ad lineas alias singulares transitus est nobis per ,
+
+copulationem linearum binarum, quae ipsae quoque novos gradus scientiae
+interponunt. Secetur n. vel diameter vel aliqua diametro commensurabilis
+saltem potentia et sic effabilis, aut etiam aliqua mese, secetur, inquam, in
+

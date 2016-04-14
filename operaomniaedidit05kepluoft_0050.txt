@@ -1,0 +1,73 @@
+38 - Epistulae Keplerl aliorumque mutuae
+
+Pr op. Π. Dimidia apotome consonat toti et lemmati‚ et lemma toti. Nam di·
+midia est geometrica (ax. geom), ergo consonat toti· (ax'. 1. mua). Est antem aequa-
+lis lemmati (def. 001010.), consonat igitur (defi). Sed et lemma toti (1.). ,
+
+Pro p. III. Tertia (1) cum lemmate suo (2) consonat et utraque 911111 tota (3).
+Nam tertiae 1 lemma est 2, ergo consonum per priorem. Et tertia est geometrica,
+ergo consona toti. Quare et lemma, eius duplum, est toti consonum.
+
+Pro p. IV. Quarta cum lemmate consonat et utraque cum tota. Quarta 901111
+1 habet lemma 3, cum eo igitur consonat (III.) et geometrica est, ergo cum tota con-
+sonat. 001101 ergo 3 cum 1 consonat, etiam cum ejus quadruplo consonabit.
+
+Prop. V. Quinta cum lemmate consonat et utraque cnm tota. Quinta enim 1
+habet lemma 4, cum eo igitur consonat (4) 91 geometrica est, ergo 911111 tota 5 con·
+sonat. Quia ergo 5 consonat cum 1, consonabit etiam cum ejus quadruplo 4.
+
+Prop. VI, Sexta cum lemmate consonat et utraque cum tota. Sexta 1 habet
+lemma 5, cum eo igitur consonat (IV.) et geometrica est, 'ergo cum tota 6 consonat
+Vel interponatur 3 inter 1 et 6 et probetur hoc per 1.‚ III. Denique& sunt geo-
+metricae, consonat igitur 3 cum 10, quare et 6 911111 10 (Ι.), quare 91 6 cum 5.
+
+Prop. VII. Duae quintae consonant cum lemmate et 011111 1010. Nam duae
+‘ quintae 2 habent lemma 3, ergo consonant (ΠΙ.); 91 geometricae sunt, ergo ipsae 2
+
+cum tota 5 consonant. Denique 5 cum 6 consonat (VI.), quare 91 5 911111 4 (1.).
+Prop. VIII. Tres octavae consonant cum lemmate et cum tota. Nam tres oc-
+tavae 3 lemma habent 5, ergo consonant (V 11.); et sunt geometricae, ergo ipsae 3
+011111 tota 8 consonant. Denique 5 cum 1 (V.), ergo et cum ejus octuplo 8 (I.).
+
+His igitur 8 propositionibus per partes demonstratur hoc corollarium: cum
+tota in 2 partes secta, 3 fuerint constituti termini interque illos 2· fuerint consona in·
+tervalla‚ tertium etiam erit consonum.
+
+Ex hoc universaliter accepto demonstratur hoc alterum: cum tota in duas partes
+secta 3 fuerint constituti termini interque illos unum fuerit intervallum dissonum, et
+alterum dissonum erit. Ι r
+
+Consequens est prioris. Nam si unum solum dissonum, duo essent consona.
+Si duo consona, tria igitur, per praecedens corollarium. At hoc contra suppositum.
+Ponebamus enim unum dissonum initio.
+
+Prop. IX. Septima una vel 2 vel 3 cum lemmatibus consonant, utraque a tota
+dissonat. Nam una septima 1 habet lemma 6, consonant igitur (VI.)‚ et ᾇ 11011901
+lemma 17, consonant igitur (V.)‚ et ἦ habent lemma 4, consonant igitur (tw). Sed
+&geometreta sunt (²²1- 2 geom), dissonant igitur (ax. 2 mus.) a toto 7. Et quia 3
+dissonat a toto 7, ergo et 6 dissonat a toto 7 (L). Sic quia 2 dissonat a toto 7,
+etiam 4 dissonat a toto 7. ⁰
+
+Prop. X. Octava cum tota consonat, lemma ab utraque dissonat. Nam octava
+1 geometrica est, consonat igitur cum 8. Vel per Ι. 981 continua dupla: continue
+igitur consona.
+
+Nota. Falsum est ἐῢ, 2⁹6 esse harmonicum, etsi sit demonstrabile. Sic etiam
+’ἔπ’ ²¹2}- Ecce: ἧς, 1⁹⁰ rejectum, ergo 91 22⁷⁶, 3⁹6· Quod autem dissonat a voce, dis-
+sonat etiam a voce octava. Sic etiam ἦ, {2¹2 dissonant, ergo et ᾗ, {1¹5- Igitur cau-
+tio. Omne circuli segmentum quotum, geometrice resectum, consonat toti, quod non
+est cum dissonante in proportione continua dupla. Nam 1⁷³5 dissonat, id est ἐξ 91
+‚2⁷15 est dimidium. Sic 1⁹⁶ vel ἐξ ergo ᾖ. Sic ἐξ, 3²23- ergo 3⁷3, ἑὲ. Hicigitm· desinit
+aequatio subtensae cum diametro afficere aures. En huc etiam quadrat quindecim-
+
+gulum. Nam 1¹3 est geometricum, sed quia ᾖ, geometricum et ,ἢ 00011008100, ergo
+91 7¹3 anarmoston,
+
+Herwartus respondit: Ehrcnvestcr etc. Thus mich der Communication dassen, so dor
+Heri· de harmonicis discurirt, bedancken und bitt, Er wolle unico verbo audentea, was ffir
+91090 authorem 01091 anffinglich 19890 10691119, wann ein harmoniarum ignarus, geometriae
+saltem aliqualiter gnarus, prima principia recht und lcichtlich begreifen wollte.
+
+Kann wol seyn, dass ich dem Herm dic Harmonica Ptolemaei vor diesem zugescbickt,
+sod aliunde mutuatus. Weil ich aber verstohe, dass 819 iibel verticrt, hoger ich deren auch
+

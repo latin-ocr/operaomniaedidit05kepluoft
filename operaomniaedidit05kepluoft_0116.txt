@@ -1,0 +1,82 @@
+104 De Figurarum Harmoniearum
+
+cedit Justus Byrgius, mechanicus Caesaris et Landgravii Hassiae, qui in boc
+genere ingeniosissima et inopinabilia multa est commentus. Primo ille dia-
+metro circuli BP (fig. 16) numerum 2 assignat, ut AB sit unitas totalis, qua
+
+in partes infinita sectione divisa, per illas longitudo lateris ΒΟ enumeretur. ⁴
+
+Deinde ponit, notam esse proportionem ipsius AB ad ΒΟ, qnae tamen pro-
+portio demum quaeritur. In hac proportione continuitatem fingit, ut sieut est
+ΑΒ1 ad ΒΟ lR, sic sit lR 111113,ει13εᾱ,1ᾰ,611ἀ3ᾶ133,811333ᾱ
+1 3& et sic perpetuo, quod nos commodius signabimus per apices sic, 1, 1¹,
+111, 1111⁷ 1¹V, lv, IVI’ lVII ete·
+
+Hisce sic positis consideratur primo quadrangulum BEDC. Cum igitur demon· ’
+stratum sit a Ptolemaeo, Copernico‚ Regiomontam, Pitisco et ceteris, qui de doctrina
+
+sinuum scripserunt, quod in quadrangulo circuli quocunque rectangulum unum dia-
+
+ 
+
+goniorum ΟΕ, DB aequet juncta duo rectangula oppositorum laterum, scilicet quod Ἰ
+
+sub DC et ΕΒ, et quod sub CB et DE: rursumque cum sit certum ex geometria, CO
+dimidiam subtensae CH et OB sagittam junctis potentiis aequare potentiam lateris CB:
+sit igitur BP 2, CB 11, quadratum 111, quod divide per BP, prodibit ΒΟ 111 divisum
+
+per 4, quadratum 11V divisum per 4, quod aufer a quadrato CB 111, restat 411 -11V ,
+divisum per 4, quadratum CO. Cum autem CH sit ipsius CO dupla, erit quadratum “
+
+ipsius CH 1611-41V divisum per 4, id est 411—11V. „
+Cum ergo habeatur quadratum CH vel BD, id est -1ectangu1um sub BD et GE, ζ
+multiplica CB in DE, ut sit rectangulum sub iis 111, qnod aufer arectangulo sub BD,
+
+ΟΕ 411—11V, restat rectangulum sub CD, BE 311— 11V, id in 11 divide, sc. in cl), ’
+
+prodibit BE 31- 1111.
+
+Pergimus ulterius ad quadrangulum DBHE. Et quia BE est 31-1111, erit
+rectangulum sub BE, DH, id est quadratum a BE, 911—61V -†- 1V1: aufer rectangu-
+lum sub BH, DE 111, restabit rectangulum sub BD, EH 811-- 61V † 1V1, quod di-
+vide per ΕΗ, 31--1111, prodibit BD δ11-6Ν -i- 1V1, divisum per 31—1111: ejus qua-
+
+dratum 641v—96V1 -1- 52V111-12x -Ι- 11111, divisum per 911—61V -ξ- 1V1, quod prius ’
+
+erat 411—11V: in hoe duc illius denominatorem, et aequabuntur
+3sslV—33V1 -Ι- 1ΟἮῙῙ-1Χ, cum 641V —96V1 -ἰ- 52V111—12X 4- 1ΧΠ ·
+Ergo etiam 63V1 -i- 11X cum 201V -f— 4¹2V111 -Ι- 11111. Ηίο aequatio prodit
+quantitatem lateris heptagonici. ,Ξ
+Vel pergimus ulterius ad DB, EG. Est n. quadratum DG, ΕΒ 911—61V †1V1.
+
+ 
+
+At quadratum DB, EG est ’411- ⁴11V, aufer hoc ab illo, erit rectangulum sub DE, BG ’ἒ
+
+511-51v -1- 1v1‚ quod divide in DE 11, erit BG 51-5111 -ι- 1V, cujus quadratum
+
+2511-501v -i- 35V1———1OV111 ἦ» 111, quod prius erat 411—11V. ἐ
+Aequantur igitur 491V -†- 10vm cum 2111 -i- 35V1 -i- 1Χ
+
+Ergo etiam 4911 -ξ- lOV1 cum 21 -1- 351V -1- 1V111, ¹⁰) .
+
+Hic iterum aequatio prodit quantitatem lateris heptagonici: sed Byr-'gius ocu·- “¹
+
+los averit ab integritate circuli, eumque considerat tantummodo ut arcum
+
+dividendum in 7. Cum igitur subtensa partibus 2 habeatur hoc processu ,j
+cossice‚ quaerit jam subtensam partibus 4, eamque invenit (eadem urethodo .
+qua supra) quod sit radix de 16¹¹—20IV -l- SVI—lvm. Jamque hac utitur, ’
+
+diagonali in novo quadrilatero‚ cujus latera sint subtensae tribus partibu8‚
+
+eoque earum rectangulum 9¹¹--—t'›IV -Ι- ΙἩ, quod ablatum a rectangulo ’
+
+16¹¹— 20¹V -Ι- 8V1— lvm, relinquit reliquorum laterum rectangulum 7¹¹-
+14¹v -Ι- 'Im—Nm. Hac ille subtensa utitur, comparans eam vel cum nu-
+mero, quo certi arcus septisecandi subtensa enunciatur, vel cum figura nihili,
+si totus circulus, ut hic, est septisecandus: et tune illi vel numero vel figurae.
+nihili aeque valent quantitates hae: Ι
+’ῖῙ-Ι4ΠΙ -Ι- 'IV—lm vel 7—1411 -Ι- 7¹V—lv1.
+Prodit autem illi ex aequatione, quam juvat mechanico, valor radicis non
+

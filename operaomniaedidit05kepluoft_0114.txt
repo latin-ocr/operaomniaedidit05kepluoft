@@ -1,0 +1,66 @@
+102 De Figurarum Harmonicarum
+
+in circulo, etsi laterum quantitas est necessaria, illam tamen ignorari aeque
+necesse est. ff
+Magna res agitur, per hunc enim effectum stetit, quo minus heptagonuset ce-
+fflg· 15, terae hujus finctis figurae a Deo fuerint adhibitae ad ornatum
+mundi, ut s t quidem adhibitae scibiles figurae in superiori-
+
+bus explicatae.
+
+Sit igitur heptagonus BCDEFGH et connectantur anguli
+omnes cum omnibus, et sit A centrum circuli et diameter BAP.
+et A connectatur cum E.
+
+Pn'mum igitur tales figurae impropriam supra dictam de-
+monstrationem nullam nanciscuntur: est enim earum numerus
+laterum et angulorum ex primis unus, at nulla-biga figurarum
+praemissarum totum circulum dividit in partes numero aliquo
+primo numerabiles, sed sortiuntur illae numerum multiplicem numerorum utriusque
+figurae. Sed neque propriam habent hujusmodi figurae demonstrationem ex angulo-
+rum numero, quia quicquid ex hoc elicitur, id vagum et multiplex minimeque deter-
+minatum est. Secetur enim heptagonus in sua triangula quinque, duo extrema aequi-
+crura obtusangula BDC, BGH, unum intimum aequicrurum acutangulum BEF, et duo
+scalena interjecta BED, BFG. Cum igitur circumferentia, super qua stant crura an-
+guli, ad circumferentiae partem oppositam facti, admetiatur angulo suam quantitatem,
+angulus BEF stat super tribus circumferentiae partibus BH, HG, GF, angulus BFE
+similiter super tribus BC, CD, DE, at EBF super una EF, ergo BEF est tale tri-
+
+ 
+
+angulum, quod habet utrumque angulum ad basin triplum ejus qui ad verticem. Eo· ’
+
+dem modo probatur, scalenum BED habere angulos in proportione continue dupla.
+Simplum enim est angulus Β, duplum E, quadruplum D, hoc est ipsius E duplum.
+Quodsi haec figura descriptionem suam certam h‘abet extra circulum,
+non minus quam habebat supra quinquangulum, oportet (ut jam olim monue-
+runt Campanus et Hieronymus Cardanus et Candalla Flussas), ante omnia
+talia triangula dari posse, sicut ante pentagonum dabatur triangulum, cujus
+uterque ad basin erat duplus anguli ad verticem. Atqui dabatur nobis in
+illo triangulo pentagonieo laterum proportio certa ex angulis, in hoc hepta-
+gonico triangulo certa proportio nulla datur. Sint enim Ι, K signa, quibus
+BF secatur ab ΕΗ, EG, trisecantibus angulum ΒΕΓ. Igitur in FEI, quia
+bisectus est angulus FEI, ut FE ad EI, sic ΕΚ ad KI. Sed EF aequatur
+toti FI3 est. enim FEI partium ἦ unius recti, qualium EFI est ἐξ, ergo
+
+EIF est etiam ἦ, crura igitur FE, FI, aequalibus angulis opposita, sunt ae· ,
+
+qualia, eademque de causa etiam EI et IB sunt aequales: quare etiam ut FI
+ad IB, sic FK ad KI. Amplius in KEB, quia angulus 7ΚΕΒ bisectus est per
+EIH: ut igitur ΚΕ ad ΕΒ, sic ΚΙ ad IB. At ΚΕ et FE sunt aequales, quia
+
+KEF aequicrurum et simile ipsi EBF3 erat‘ vero EF aequalis ipsi IF, et ΕΒ ,
+est aequalis ipsi FB; quare etiam ut IF ad FB sic KI ad IB. In eadem igi· ¹
+
+tur BF, subtensa tribus septimis circuli, duae sunt inventae proportiones par-
+tium trium: primum ut media ΚΙ ad minimam KF, sic maxima IB ad IF
+compositam ex utraque minore, hoc est ad FE latus septanguli: iterum ut
+maxima IB ad mediam IK, sic tota BF ad FI compositam ex 2 minimis. Haec
+proportio speciem quidem prae se fert necessariae determinationis ad certam
+et unam proportionem ipsius EF ad FB, imposuitque Cardano, qui cum tale
+quid in lateribus scaleni trianguli BED animadvertisset, quod proportionem
+reflexam appellavit, de invento septanguli latere frustra gloriatus est. ⁹) Nam
+nulla certa sequitur quantitas ipsius EF vel IE, quia id quod putamus nos
+*nancisci novum in secunda vice, coincidit cum primo. Quotiescunque enim
+eunt 4 proportionales, in quibus duae primae aequant tertiam: fit etiam, ut
+

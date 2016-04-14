@@ -1,0 +1,69 @@
+96 De Figuratum Harmonicarum
+
+Porro haec latera SQ, ΩΤ non ipsa sunt tantum mizon et elasson, sed sunt
+etiam tales lineae, ex quibus aliae tales fiunt addendo vel subtrahendo. Primum enim
+sunt inter se incommensurabiles, secundo quadrata ipsarum TQ, QS juncta aequantur
+quadrato effabili ipsius TS, tertio rectangulum sub TQ, QS est meson, est enim ae-
+quale rectangulo sub QM semila-tere tetragoni, sola potentia effabili, et sub TS effa-
+bili longitudine: quam ob causam sunt etiam juncta in ,gradu scientiae sexto. Quare
+per X. 39 compositae in unam TQS fiunt mizon, et per X. 76 TQ, hoc est QZ ab·
+lata a QS, relinquit ZS elassonem. Itaque fieri potest, ut elasson et mizon unius
+bigae fiant elementa alterius bigae, et elasson‚ ablata a mizone sua, relinquat elas-
+sona alterius.
+
+Quod aream octogoni attinet, illa aconstat ex oeto talibus trigonis, qualis est
+LQT. Sed constat rectangulum QTRS ex talibus quatuor, est ergo semissis areae,
+et est meson, ut paulo antea probatum3 ergo etiam duplum ejus, scilicet area octo-
+goni, meson est, per porisma prop. Eucl. X. 24. Hinc Clavius Geom. Pract. libro
+VIII. Prop. 31 demonstrat, aream ejus esse medium proportionale inter aream tetra-
+goni inscripti et aream circumscripti tetragoni, quae sunt ad invicem ut 1 ad 2, quae
+determinatio quantitatis certae infert eandem qualitatem mesi.
+
+XXXVII. Propositio. Hekkacdecagoni latus habet geometricam
+descriptionem ex angulis, sed lateris scientia longius evagatur in gradus igno-
+biliores omnibus praemissis, multoque magis ejus stellarum latera, seu sub-
+tensae tribus, quinque, septem sedecimis. ,
+
+Quia bis octo sunt sedecim, ideo per latus octogoni figura haec ex iisdem fun-
+damentis describitur, quibus antea octogonus per latus tetragoni. ·
+
+Esto ΩΟ (mg. 10) latus non jam tetragoni, sed octogoni, et QT, ΤΟ laterfl jam
+sedecanguli, et QP latus stellae octangulae esto: id fuit prius mizon, ergo et LM ejus
+dimidia erat mizon. Quare rectangulum sub ST effabili et LM mizone est speciei Plane
+novae, cujus inter gradus superius explicatos, ut nobiliores, nulla fit mentio. Tale
+vero novum ablatum ab eo, quod sub LT, ΤΒ, effabilibus longitudine, continetur, re-
+linquit iterum remotiorem aliquam speciem, rectangulum scilicet sub MT, TS, aequale
+quadrato TQ, lateris hekkaedecagoni. Multo magis id verum de pluriangulis huillss
+classis: ut 32, 64, 128 angulorum etc.
+
+Cum sic habeat cum latere uno seu subtensa uni sedecimae, jam illius
+potentia ablata a potentia diametri, relinquit subtensam septem sedecimis, est
+igitur illa gradus remotioris. Tres vero sedecimae subtensam habent dativa-⁵
+tam a subtensa tribus octavis per biscctionem: sunt‘igitur in remotiori gradu,
+quam illa. Et potentia subtensae tribus sedecimis ablata a potentia diametri,
+
+relinquit pogentiam subtensae quinque sedecimis. Est igitur haec rursum re·-
+motiori gra u.
+
+XXXVIII. Propositio. Trigoni et hexagoni latera geometricam habent
+descriptionem ex angulis figurarum, et in circulum inscripta, sunt scibilia, illud
+
+tertio, hoc secundo gradu3 plana vero seu areae figurarum sunt mesa, pro-
+portionis inter se duplae.
+
+ΠΕ· 1¹· 1 1) Τῖἶῗείἳῖρὲῗέἓῗ“ἑὶῗάιῖῗῖἶέᾆῖἒὲζῖῂέῗ ῗὲἱῗρᾚῗοῗὲῗέ
+. . ,
+dos taceam, fit beneficio hexagonici lateris, quia de ΒΘΖ
+semis sunt tria. Et hexagoni quidem descriptio et inscrip-
+tio sunt Eucl.1V. 15. Sed ostendenda est consecutio quan·
+titatis lateris ex angulorum rationibus.
+
+Sit hexagonus BHCGDF. Cum igitur sint anguu (ἒ, .
+planum etiam hexagoni dividetur in triangula sex, vertici·
+bus in centro A coeuntia, quale unum est CAG. Quare qua·
+tuor rectorum, centrum A circumstantium, summa divisa
+in sex vertices, dat uni verticali angulo CAG quatuor sex-
+tas, seu duas tertias unius recti. Atqui trianguli CAG ,
+
+ 
+

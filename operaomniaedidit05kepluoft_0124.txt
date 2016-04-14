@@ -1,0 +1,78 @@
+112 De Figuramm Harmonicarum
+
+tricem, helica, conchoidea‘? Ipse quidem Campanus, trisectio'nem tentans, non animad-
+vertit, se sumere tertiam anguli partem veluti ,iam certam, quae erat demum quae-
+
+relntilia. ElxgtatIlpcus in meo exemplari ad finem operis Euclidei fol. 586. pertinens
+a nem i ri .
+
+J ord anns Brunus Nolanus in sexanguli ABCDEF opposita latera Bc. EF'
+
+continuata utrinque ducit perpendiculares GH, IK, circulum
+in A, D contingentes3 ducta igitur facti parallelogrammi dia—
+gonio IH, circulum putabat secari sic, ut inter A , D puncta
+
+Fig. 19.
+
+AN, DM. Atqui demonstratur ex diagrammate, quod cum semi—
+diagonii illius LH quadratum sit effabile, scil. ἧς de quadrato
+diametri (est enim ABH 60⁰, ergo BH semissis de AB vel AL,
+et ejus potentia igitur quadrans de potentia AL, igitur AB
+potentia dodrans de potentia AL. Sed potentia LH aequat
+potentias LA, ΑΗ), sinus igitur graduum 40, hoc est dimidia
+subtensa duarum nonarum circuli, futurus fuerit effabilis po·
+tentia, scilicet radix de ,ᾖ quadrati diametri. Demissa enim perpendiculari AO ex
+A in LH, erit sicut LH potentia, ἦ, ad HA potentiam, ἦν, sic LA potentia, ἦ, ad Ao
+potentiam, ¹72 de gg, id est ἐς 11). Ita haec nonangularis anguli subtensa esset nobi·
+
+ 
+
+contactuum et sectiones N, M existant nonae partes circuli ³
+
+lior aliquibus praemissis et communicans iis, cum tamen sit numero laterum impari, Ξ
+
+scilicet numero aliquo, primi 3 quadrato, nihil communicans cum tetragono et trigono
+per bisectionem arcuum, quarum figurarum proprius est hic nobilitatis gradus.
+
+XLVIII. Corollarium. Sequitur igitur, notionis, scientiae, determina-
+tionis, descriptionis et demonstrationis metas intra primos figurarum ordines
+consistere: ut sint classes figurarum scibilium non plures quam quatuor: tres
+proprias demonstrationes habentium. in quibus capita sunt familiarum, in prima
+tetragonus, post diametrum circuli, cujus character numerus 2, in secunda
+
+trigonus, cujus character 3, in tertia pentagonus, charactere 53 una vero im-
+
+propriarum demonstrationum, cujus numerus est multiplex duorum 3 et 5,
+
+scilicet 15: prima enim ejus classis figura est pentekaedecagonus.
+
+XLIX. Propositio. Cum autem bisectio (qua propria utitur classis
+prima) communis sit tam secundae quam tertiae classi, patet, alio jure degere ,²
+classem primam, alio duas reliquas: ita ut prima familiaritatem habeat ad ut· st
+tamque reliquarum, at illae figurationibus contra se distinguantur, adeo ut η
+earum, quae proprias demonstrationes habent, quodammodo duo tantum sint “
+
+genera.
+
+Nam tetragonus et octogonus statim se quasi totas trigonicae sectae applicant, , ·
+
+quia pars circuli sexta et duodecima junctae faciunt quartam, pars duodecima et vi· ⁵
+cesima quarta compositae faciunt partem octavam. Et tetragonus se pentagonicae >
+
+sectae quadamtenus accommodat, quia quinta circuli pars, addita vicesimae, constituit
+partem quartam. Causa est, quia numeri 3 et 5 dividi possunt in numeros propor-
+tionis continue duplae: nam partes ipsius 3 sunt 1, 2, partes ipsius 5 sunt 1, 4. Ta-
+lis vero >communio non est inter classes ternariam et quinariam. Nam etsi sexta pars
+circuli addita tricesimae constituit quintam, at tricesima est classis pentekaedecago-
+nicae, quae non habet propriam demonstrationem. Eodem modo decima circuli ad-
+dita quindecimae (ecce admixtionem classis quartae) faciunt sextam. Propter hanc
+dualitatem generum numeri characteristici sunt, in primo 12, in secundo 20 vel ejus
+
+dimidium 10. Haec igitur infra libr. III. referenda et adscribenda sunt ad distinctio· -
+
+nem generum cantus.
+
+L. Comparatio figurarum seu divisionum circuli. Primas tenet
+diameter3 est enim effabilis longitudine. Secundum est latus hexagonicum‚
+aequale semidiametro et sic effabile longitudine. Tertio loco stant tetragonus
+

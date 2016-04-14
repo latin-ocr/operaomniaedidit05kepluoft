@@ -1,0 +1,89 @@
+144 De Proportionibus
+
+cum 12 duplo totius, per axz 5., ergo etiam eum simplo, so. cum ipsa tota 6 eonso-
+nabit per prop. 4. Ita tres fiunt consonantiae. Ergo etc.
+
+Propositio XIV. Sectio, chordae in duas partes, proportionis inter
+se sesquialterae, est harmonica.
+
+Nam quia pars 2 cum residuo 3 constituit proportionem sesquialteram, habet
+κ- igitur se pars ad residuum, ut aliquod consonum residuum 2j'se ha-
+rt: bet ad circulum 3, per corollarium. quare et pars , haec 2, cum suo
+
+Ὃς residuo 3 consonabit, per ax. 5. Et quia pars 2 cum residuo 3 facit
+² totum 5, pars vero 1 ejusque residuum 4 cum suo toto 5 consonat,
+— per corollarium; consonabit igitur etiam tota 5 cum consonae par-
+2³: tis 1 dupla 2, quae'hoc loco nostra’ pars est, vel cum consoni re-
+
+ 
+
+ 
+
+'ls -Ξ-ὓ- sidui 4 dimidio 2, per prop. 4. Idem sequitur etiam simpliciter ex
+
+² propositionis 5. parte prima axiomatica, quia subtensa duabus quintis demon-
+Ι ξ strabilis est, quare et consona. Denique quia partis 2 residuum 3 est ad to-
+tius 5 partem quartam, ut totus circulus 12 ad partem consonam 5, per 'corol-
+larium, consonabit igitur et residuum nostrum 3 cum toto 5, per prop. 7. Tres
+igitur consonantiae existunt. Ergo etc.
+
+ 
+
+Pr opositio XV. Sectio chordae in partes duas, proportionis inter se
+
+super-bipartientis tertias, seu 5 ad 3, est harmonica.
+Nam quia proportio partis 3 ad residuum 5 est eadem, quae alicuius« residui 3
+consoni ad totam 5, per corollarium, quare per axioma 5. etiam
+-—···--‘ nostra pars 3 cum nostro residuo 5 consonabit. Et quia pars 3 ’
+³⁷ ΪΘᾟ cum residuo 5 facit totam 8, quare per corollarium pars 3 consona-
+bit cum tota 8. Denique quia residuum 5 ad totius 8 partem di-
+„ --- midiam 4 se habet, ut totus circulus 5 ad residuum 4 consonum,
+{1301} vel ad totius 8 partem quartam 2ῑ ut totus circulus 5 ad partem
+-Θ-εῖ consonam 2, per corollarium: consonabit igitur residuum nostrum
+etiam cum toto 8, per prop. 7. Tres igitur et hic fiunt consonan-
+
+tiae. Ergo etc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Propositio XVI. Si chorda secetur in duas partes effabiles, interque
+illas et totam, hoc est inter tres terminos, fuerit dissonantia una, oportet et
+
+alteram dissonantiam inter illos esse. Ι
+Nam causa dissonantiae eiit, quod vel tota vel pars habeat numerum portionum
+illius divisionis proprium figurae indemonstrabilis. Atqui talis numerus neque majori
+alicui numero, qui proprius sit figurae demonstrabilis, consone sociatur, neque u'ui
+minori se ipso, per axioma 3. et 5. et prop. 5. et 7. Terminus igitur ille, qui constat
+numero tali portionum, dissonat a duobus terminis reliquis sectionis illius, etsie duae
+
+sunt dissonantiae simul.
+Huic propositioni in geometria simile est hoc, quod si recta secetur in
+
+partes effabiles fueritque earum una incommensurabilis alicui tertiae (non
+toti ex utraque compositae, ut hic): alteram quoque eidem tertiae incommen-
+surabilem oportet esse. Aut, si recta secetur in partes inter se incommen-
+surabiles, utraque erit toti incommensurabilis. ' ·
+
+Propositio XVII. Si chorda secetur in duas partes longitudine effa-
+biles, fuerintque inter illas et totam, hoc est inter tres terminos, consonantiae
+
+duae, oportet et tertiam ¹esse consonantiam.
+Si enim duae consonantiae sunt, cum sint proportionum non plures quam tres,
+
+non poterunt igitur esse duae dissonantiae; si non duae dissonantiae, ergo nec una, ,
+
+per 16, conversam3 ergoomnes tres proportiones erunt consonantes.
+Sic in geometria, si recta secetur in partes inter se commensurabiles,
+
+tota utrique partium erit commensurabilis.
+

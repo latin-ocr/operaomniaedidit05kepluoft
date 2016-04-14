@@ -1,0 +1,58 @@
+106 De Figurarum Harmoniam-um
+
+stitutus omnibus geometriae praesidiis, haerens inter spineta numerorum, frustra
+cossam suam respectat. Hoc unum, est discrimen inter cossicas et inter geo-
+metricas determinationes.
+
+Alterum est, quod tota haec ratio Byrgiana innititur essentiae quantitatis
+discretae seu numerorum, et dividit diametrum in particulas certas , quoties
+et quamdiu vult, generaliter in partes duas3 cui numero totus processus in-
+nititur mutareturque, si nomen diametro aliud seu numerus alius daretur. At
+non sic geometria figurarum, superius tradita, quae latera effabilia longitudine
+signat sane numeris3 at ineffabilia nequaquam numeris consectatur, sed per
+suas certas species distributa sic enunciat, ut appareat, non de discretis, sed
+de continuis quantitatibus agi, de lineis et superficiebus.
+
+Tertio hactenus et lateri figurae et lateri stellae cognominis cuique sua
+certa erat descripti03 in hac algebraica analysi illud maxime mirum est (quam-
+vis geometram praecipue absterreat), quod non una via praestari potest, quod
+imperatur. Quanquam id non omni lege solutum est, sed, ut supra dici
+coeptum, tot sunt numeri facientes imperatum, quot sunt in figura subtensae
+seu diag'onii longitudine differentes, ut in quinquangulo duo, in septangulo
+tres, unus pro latere, reliqui pro subtensis angulo. Itaque quicquid enunciatur
+tandem de proportione figurae propria, id commune est omnium ejus linearum
+proportionibus ad diametrum.
+
+Quarto, posito, quod una sola proportio faciat imperatum, illam tamen
+non doceor absolvere, sed saltem venari eminus. Cum enim species linearum
+causa scientiae versentur in genere ineffabilium (id est non numerabilium, seu
+numeros respuentium) eoque nulla unquam multitudine consummetur ratio,
+quin semper aliquid in incerto relinquatur: haec contra ratio, ut loco secundo
+dictum, praeter numeros non assumit alia praesidia, sed diametrum varie
+semper dividit in multas myriadas myriadum, ut exactior fiat rati03 at sic
+nunquam fit exactissima, et breviter, hoc non est scire rem ipsam, sed saltem
+aliquid proxime majus vel minus, potestque semper posterior aliquis compu-
+tator approximare magis, pervenire ad punctum ipsum nulli unquam datur.
+Talia nimirum sunt omnia, quae latent in sola possibilitate materiae quanti-
+tativae, neque formationem habent scibilem, qua in actum quandoque scibi-
+litatis humanae constituantur.
+
+Quinto, ut in specie de septangulo figurisque huJus generis consequen-
+tibus agamus, cum per eas ordine suo sese consequentes proportionalitas con-
+tinua extendatur cum ipso numero laterum: ergo si maxime innotesceret ul-
+tima, ut in septangulo proportionalium‘septima, non tamen per eam haberi
+possent intermediae. Nam inter duas, quae non habent proportionem inter
+se, quam duo numeri proportionalitatis continuatae, ut cubicae, sursolidae etc.
+nequeunt geometrice constitui continue proportionales intermediae quotcunque,
+sed· solum una vel tres vel septem vel quindecim ete, duo vero vel qua-
+tuor, quinque, sex, octo, novem etc. constitui tunc non possunt in plano, cum
+hic de planis‘figuris agamus.
+
+Jam vero inter semidiametrum l et septimam proportionalem lVII pro·-
+portionis septangularis sunt mediae proportionales sex, id est l ad lvn non
+ut numerus ad numerum proportionis continuae aeque longae3 non est scilicet
+proportio semidiametri ad latus septanguli secundum duos numeros, hoc est
+non effabilis est. Nam si esset effabilis, caderet in species prius explicatas
+classium priorum, et septem anguli non essent septem, sed tres vel quatuor,
+quod contradictionem involvit. Ex angulis enim primarum figurarum erat la·-
+

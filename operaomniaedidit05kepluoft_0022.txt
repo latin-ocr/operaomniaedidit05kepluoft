@@ -1,0 +1,57 @@
+10 Prooemium
+
+earumque latera inter se componit ex vi, quam habeant ut rationales et
+irrationales quantitates, comparatae cum radio circumscripti circuli. ’
+
+Liber secundus orditur a definitionibus congruentiae. Voce hac
+aliter utitur quam alias uti illa solent mathematici. Congruentes ei sunt
+figurae, si curn angulis suis spatium puncto circumjectum aut 'in planitie aut
+in spatio explent. Exemplis ejusmodi perfectae aut imperfectae congruentiae
+utitur multis figuris, quas aut ut corpora aut eorum lineamenta (retesysoliis
+propriis depictas addit. Nos eum auctorem secuti has formas lapidi imprimendas
+curavimus et annotamus, figuras in lateribus 5 regularium corporum Pytha-t
+goticos symbolos referre, quemadmodum hoc a Keplero thesi 25. explicatum
+est. De ‘thesi 27. Keplerus ad inquirendas semiregulares formas progressus
+tredecim corpora Achimedica explicat. Quaestionibus hoc libro factis eo de-
+ducitur, ut dicat, congruas esse figuras duodecim, sc. figuras comprehensas
+lateribus 3, 4, 5, 6, 8, 10, 12 et 20 („figurae radicales scu primae“)‚ quibus
+accedant 4 stellae: pentagonica, octogonica, decagonica et dodecagonica
+(„figurae auctae“). ⁴ ι
+
+Liber tertius refert factas de musica et sonis harmonicis quaestiones.
+In praefatione deprehendimus varia de veterum musica prodita et Pythagoricam
+maxime tetractyn examinatam. Keplerus profitetur, sibi neque Pythagorica
+neque meliori Ptolemaei harmonia, cum utraque disciplina auditus justo
+minorem rationem habuisset, esse satisfactum. Quam ob causam se ex viginti
+annis id egisse, ut ea musicae fundamenta poneret, quae non solum numeris
+,abstractis niterentur, sed in aliis quoque rationibus et quantitatibus locum
+haberent et auditui satisfacerent. Haec fundamenta in geometria posita esse
+ratus, primarium statuit propositum, diametrum circuli et latera figurarum
+„radicalium terminare partem circuli consonantem cum toto circulo“ pariterque
+chordis ad eandem rationem divisis reddi sonos harmonicos. De his divi-
+sionibus harmonicis tum pluribus agitur et hae sunt: 1) bisectio, 2) sectio
+in ratione 1 ad 2, 3) in ratione 1 ad 3, 4) 1 ad 4, 5) lad 5, 6) 2 ad 3,
+et 7) sectio in ratione 5 ad 3. Plures quam septem istas chordarum divi-
+siones non esse in harmonia. Has vero divisiones, Keplerus -refert, a se
+primum auditu indice inventaS, et fundamenta earum multo labore ex geometria
+eruta esse, sententiamque suam in Prodromo (Ι. 139) enunciatam refellit.
+
+Jam de continuis proportionibus harmonicis agens reprehendit vagam
+significationem (a -— b z b — c = a: c), nec nisi eos, ait, numeros habere inter
+se proportionem harmonicam, in quibus medius cum exteris ambobus et
+differentiae membrorum inter se rationes forment, quae inter septem divisiones,
+quae dictae sunt, occurrant aut comprehendi iis possint. Vere continuam e. c.
+intercedere proportionem inter numeros 20, 15, 123 esse enim 20 - 15 :15-
+12=20:12:5:3 eteok15=413 et15212= 5:43 numeros contra
+35, 20, 14 non referre proportionem harmonicam, quamvis 35 — 20 : 20 -— 14 =
+35 : 14 = 5 : 2 respondeat regulae, contra 35 ε 20 -- 7 z 4 et 20 : 14 -- 10 z 7
+non consonent.
+
+Quarto capite libri tertii Keplerus pergit ad discrimen inter acutum
+et grave, altum et profundum, inter intervalla concinna et consona in musica
+et haec numeris per tabellas comparat, ad quac annotandum est, hocloco
+et insequentibus voces duplum, dimidium, subtractio, additio in proportionibus
+signare quadrare, radicem quadratam extrahere, dividere, multiplicare. — In
+hoc capite explicatas etiam videmus voces: tonus, tonus major, perfectm,
+minor, semitonium, diesis, comma.
+

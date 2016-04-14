@@ -1,0 +1,93 @@
+110 De Figurarum Harmonicarum
+
+agit, quicunque hic annititur, et oppositum in adjecto statuit, confusus. Ex commu-
+nibus enim nihil cuique⁴ proprium concludetur. Sin autem de differentiis specificis
+linearum, quae dividendis arcubus subtenduntur, sermonem instituimus, jam mutatur
+status quaestionis et pro sectione arcus omnifaria substituitur sectio totiuscirculi
+der figuram regularem, quae propositae subtensae suam specificam proprietatem con-
+ciliat, de quibus figuris regularibus nos jam supra egimus et in sequentibus amplius
+agemus: quippe qui ha· ipsa in quaestione medium quaerebamus, quo figurarum illa·
+
+rum aliquas describere possemus. Cum itaque tale medium natura debeat esse prius ·
+re ipsa. per hoc medium efficienda, principium utique peteremus, si medio nostro ex·
+
+pediendo praesidium a figuris regularibus peteremus.
+
+Verum hic adversarius aliquis objecerit mihi, quod Pappus Alexandrinus libro >
+
+quarto Mathematicarum Collectionum, proposit. 31. tripartitam anguli sectionem tra-
+dat per hyperbolam, et proposit 35, data quacunque ratione angulum secare per
+
+quadratricem et helicen3 et Clavius Geometriae Practicae lib. XIII. prop. 25. praestat
+
+idem per conchoidea Nicomedis. Verum illorum auctorum inventa nullam stabiliunt ·
+possibilitatem omnifariae sectionis geometricae scientificae Ut hoc appareat, primum ³
+Pappi machinationes circa trisectionem explicabo, deinde differentiam inter illas et ,,
+
+descriptiones scientificas in luce locabo.
+
+,³
+
+Primum ipse Pappus in praeambulo ante propositionem 31. dividit problemata ³
+(quae generaliori significatu vocabuli geometrica appellat, cum nobis geometricum spe· .·'
+cialem sensum habeat) in plana, solida et linearia, fateturque, trisectionem anguli per
+plana (quae mihi sunt speciali sensu geometrica, scientifica graduum explicatorum) ⁴
+
+expediri non posse eaque de causa coarguit antiquos geometras inconsulti conatus, ζῖ
+
+qui hic frustra desudaverint. Ipse igitur trisectionem suam expedit per solida, omni-
+fariam vero sectionem per lineas figuratas.
+
+. Trisectionis modus est talis. Proposito angulo trisecand0‚ demissa ex puncto
+cruris unius perpendiculari in crus alterum, quae longitudinem crurum intelligatur
+determinare, et ei cruri alteri, breviori facto perpendiculoque ductis parallelis, illi ex
+
+,,
+ij
+
+1
+
+puncto primo, huic ex proposito angulo, sic ut concurrentes rectum et ipsae faciant Ι
+
+angulum: jam per punctum, in quod demissa perpendicularis, facit transire super-
+
+’ ἓ
+
+ficiem coni, figurae solidae3 deinde sic applicatum conum inclinat seu annuere facit, 2⁴
+quoadusque is cum eadem sua superficie sectionem, hyperbolen dictam, in plano de·
+signet, ductarum parallelarum, ut asymptoton‚ propriam: tunc ex puncto illo, in quod ·.’
+est demissa perpendicularis, intervallo, quod sit duplum cruris primi, describit in plano
+arcum, secantem sectionis conicae lineam, et connexo centro arcus cum hac communi ³
+sectione, rectam ei parallelam ex angulo proposito ducit, eoque facto demonstrat, ab· s
+
+sectam esse ab angulo partem tertiam.
+
+Solidum quidem hoc pacto problema facit Pappus usu coni, figurae solidae. s
+
+At quatenus inter datas asymptotos (ductas perpendiculares), angulum rectum facien-
+tes, per punctum inter illas datum, sectio conica, dicta hyperbola, etiam sine cono
+
+delineari in plano potest: problema idem videtur etiam inter linearia referendum, ,
+
+Gignitur enim talis linea motu geometrico et mutatione continua intervallorum, hoc
+
+est repraesentatur per puncta quotvis, indeterminato numero, idque non minus, quam ἶ
+quadratrix et helix, quibus lineis proposit. 35. et ternariam et omnifariam sectionem ³
+
+perficit. Sic habet Pappi machinatio. .
+Quid igitur dicemus? Nonne inter datas asymptotos per punctum datum una
+
+sola scribitur hyperbola, sive id fiat annutu coni, sive punctorum infinitorum conti-
+
+nuatione? Nonne una sola sectio circuli cum hyperbola ex una plaga? Nonne una¹
+sola et certa inclinatio est lineae, puncta hyperbolae connectentis, ad figurae diame-
+trum? Equidem fateor, haec omnia necessaria et certa esse, siquidem hyperbola jam
+
+sit descripta. Erat enim etiam prius, in analytica Byrgii trisectione, tertiae constitutae κ
+
+partis subtensae certa et necessaria longitudo seu proportio ad subtensam toti arcui.
+At quia non de hoc quaerimus, quid sit re J'am facta, sed quomodo, ut sit quidque,
+res nondum facta sit facienda demum: ideo nihilo plus habemus ex problematibus
+
+solidis et linearibus veterum, quod ad quaesitam linearum scientiam faciat, quam prius
+

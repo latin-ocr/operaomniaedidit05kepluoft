@@ -1,0 +1,68 @@
+,142 De Proper-tionibus
+
+consonat etiam cum abscissa, sicut priori propositione cum toto consonabat3
+sin eam, quam totus ad aliquam dissonam partem, dissonabit et ab abscissa
+parte et a toto.
+
+Primum membrum nititur axiomate 5. ut et posterioris membri particula una,
+quod residuum dissonet a parte abscissa. Quod vero tale residuum dissonet etiam a
+toto, sic probatur: capit enim id in dicta proportione locum totius circuli per figu-
+ram indemonstrabilem divisi, quare etsi residuum tale est minus toto circulo, cujus
+est residuum, at majus tamen est semicirculo, ex definitione residui. Quodsi majus
+est semicirculo 8110, quarta igitur circuli sui pars, quippe dimidia semicirculi, minor
+est residui hujus dimidio. Quare ut residuum ad circuli sui quartum, sic erit ali-
+quis circulus divisus a figura indemonstrabili, ad aliquam suam partem divisionis illius
+At dissonat totus talis circulus a tali sua parte per ax. 3., dis sonabit igitur et dictum
+residuum a circuli sui quarta, per ax. 5. dissonabit igitur etiam a toto suo circulo
+per prop. 7.
+
+Corollarium ad has propositiones. Sunt ergo *⁷
+Consonae partes. Consona residua. ’ Dissonae partes. Dissona residua. Respectn totius
+
+1 . . . . 1. .......... 2
+1 ..... 2. .......... 3
+1. . . . . 3 ............... 4
+1, 2. 3, 4 .............. 5
+1 ..... 5. .......... 6
+1, 3. 5 .......... 7. . . . . 8.
+1, 3. . . . . . . . . ..... 7, 9. . . 10.
+‘1,5...‚ . ......... 7,11.. 12
+1, 3, 5. . . . . . . . 7. . . . . 9, 11,13, 15. 16
+1, 3. . . . . . . ,. . 7, 9. . . . 11,13,17,19. 2ο
+1, 5. . . . . . . , . 7, 11. . . 13, 17, 19, 23. 24
+Et cetera.
+
+CAPUT 11.
+
+De Sectione Harmonica Chordae.
+
+Hactenus originem docuimus harmonicarum proportionum, eamque du-
+plicem, unam immediatam a figuris demonstrabilibus iisdemque et congruis3
+alteram mediante proportione dupla, qua nititur consonantiarum identitas.
+Cum autem infinitae sint harmonicae proportiones eaeque quoad nostram cog-
+nitionem adhuc rudes, impolitae, inconspicuae et innominatae et coacervatae
+seu disjectae potius, ut aliqua rudium lapidum lignorumque copia: sequitur
+ut progrediamur ad eas poliendas, ad nomina ipsis indenda, denique ad pul<
+cherrimum aedificium systematis harmonici seu scalae musicae exiis exstruen-
+dum, cujus constitutio non est arbitraria, ut quis cogitare possit, non inven-
+tum humanum tale, quod mutari etiam possit, sed rationabilissima naturalis-
+simaque, adeo ut Deus ipse Creator illam expresserit in contemperatione
+motuum coelestium. Coagmentantur autem proportiones harmonicae in unum
+systema per sectiones chordae harmonicas, quae quot sint numero, id hoc
+capite perquirendum erit.
+
+a· κ· Definitio Cum tota chorda secatur in partes tales, quae
+
+’Ξ Ξ 61 inter se et cum tota singulae consonent, sectio harmonica no-
+3 ἒ Ξ bis dicetur. Medium vero sectionis hujus, musice (id est consone)
+13 ὣ m proportionatae, est partium duarum aequalium una, vel si inaequa-
+2· 1· ²¹· les, earum major; extrema proportionis consonae sunt pars reliqua
+¹3· Mad 1¹· vel minor et chorda tota.
+
+8 .
+
+Observet geometra analogiam proportionis divinae seu secundum
+Extrema extrema 61 medium, in qua tota habet eandem proportionem ad partem
+
+ 
+

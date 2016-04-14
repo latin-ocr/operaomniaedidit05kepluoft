@@ -1,0 +1,64 @@
+88 De Figurarum Harmonicarum
+
+commensurabilggn sc. sola potentia, ad tertiam aliquam, sola potent-ia commensurabi-
+lem (1323. εἶξε bigas duplici genere planorum distinctas Euclides ob id potissimum
+docet invenire, quia faciunt ad compositionem et constitutionem specierum sequentium.
+
+XX. Definitio. Ergo scientiae gradus octavus ex praemissis interpo-
+
+sitis derivatur estque linearum iterum singularium, sed quae compositione
+duorum nominum, sc. duarum copulatarum ex praecedentibus copulis, vel ab..
+stractione unius, epharmozusae dictae, ab altera socia, constituuntur, novam
+speciem facientes Ut sic in his sciamus seu mensuremus non integras lineas,
+non integrarum quadrata, non bina uniuscujusque nomina, sed eorum juncta
+quadrata et commune rectangulum, ut praecedentibus XVIII. XIX. Et quam·-
+vis totidem scientiae gradus numerare possemus, quot sunt futurae species,
+quarum* semper prior est posteriore nobilior, quia tamen quaelibet compositio
+vel abstractio ad suum gradum respicit, nec ipso compositionis vel abstrac-
+tionis opere constituitur ulla diversitas, sed omnes se habent ex aequo ad
+suas nominum seu elementorum bigas: ideo unum solum earum gradum fa·-
+ciemus, sed species ejus sciamus nobilitate distinctas.
+
+XXI, Propositio. Sciendum est autem, ex duabus inter se longitu-
+dine commensurabilibus nihil fieri, quod hic in censum venire debeat: sive
+affabiles illae fuerunt, sive mesae, sive ignobiliores.
+
+Nam si commensurabiles longitudine, tota etiam ex iis composita erit partibus
+commensurabilis. Atqui quae effabili commensuratur, effabilis est, per definitiones
+ante X. 20. Eucl. Quae vero mesae commensurabilis, est mese per 24. eiusdem. Et
+quae cuique ex Jam secuturis ineffabilibus post mesas commensurabilis, ejusdem cum
+illa speciei est, per 66-70, 103-107. Et sic est etiam cum aliis speciebus remo-
+tioribus, ab Euclide non commemoratis, quae gradus remotiores faciunt. Ac etsi cum.
+iis non ita esset, id tamen ad nos nihil pertinet. Aut enim recidunt in unam spe-
+cierum, quas ,iam constituemus ex incommensurabilibus, et sic non augent numerum,
+aut faciunt species ignobiliores vel sui vel alterius generis, et sic non sunt hujus loci,
+ubi gradus struimus praemissis proximos nobilitate. ’
+
+ΧΧΙΙ. Definitio. ·T1·ansmissis igitur iis, quae sunt longitudine com-
+mensurabiles, accedamus ad eas, quae sola potentia sunt commensurabiles,
+Igitur si componantur tales duae affabiles, fit binominis: sin abstrahantur, ex
+relicto fit apotome: utriusque sex sunt species subordinatas (X, 84. 85.).
+
+Sin autem tales duae mesae componantur, aut effabile formantes rectan-
+gulum aut meson: fiunt compositione bimediales‚ abstractione meses apoto-
+mae, illic priores, hic posteriores cognominatae. ’
+
+Hic conjungere non licet effabilem cum mese: sunt enim tales duae sim-
+pliciter incommensurabiles, de quo genere jam in sequenti agendum est.
+
+XXIII. Propositio. Restant igitur plane inter se incommensurabiles.
+Ex iis vero aliquae bigae requisitos effectus praestare non possunt, ut sunt
+binae mesae, item una mese cum una effabili.
+
+Illae quidem propter bigae ignobilitatem, istae vero propter suas discrepantes
+naturas. Vide X. 71. 108. 109. Eucl. Nulla igitur species compositionis hinc potest
+arcessi, restantque nobis ignobilioremantum, exclusis et effabilibus et mesis.
+
+XXIV. Propositio. Ex biga vero prima talium plane incommensura-
+bilium‚ sc. quae sunt in praemissa XVII. scibiles gradu quinto, componendo
+abstrahendove rursum nascitur effabilis3 suntque necessario binominis et apo-
+tome, vide X. 112. 113. 114. Euclidis. Ut si et summa quadratorum binomi-
+nis et apotomes, et commune rectangulum illis est effabile, oportet nomina
+singula unius nominibus singulis alterius esse commensurabilia, quod non fit
+in omnibus binominibus et apotomis.
+

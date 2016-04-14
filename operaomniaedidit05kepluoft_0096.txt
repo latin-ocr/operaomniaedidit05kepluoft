@@ -1,0 +1,59 @@
+84 De Figuratum Harmonicarum
+
+mihi faciendum esse, ut initio ex libro decimo Euclidis exscriberem ea, quae
+ad praesens institutum meum praecipue facerent, seriem etiam rerum illius
+libri, certis quibusdam interjectis divisionibus, in lucem proferrem, causas ἰιι-μ
+dicarem, cur quaedam divisionum membra ab Euclide -fueriht omissa: tunc
+demum de figuris ipsis agendum fuit. Ubi quae fuerunt ab Euclide demon-
+strata clarissime, in iis simplici propositionum allegatione contentus fui: multa,
+quae sunt ab Euclide demonstrata via alia, propter finem mihi propositum,
+scilicet propter comparationem figurarum scibilium et inscibilium, hic fuerunt
+repetenda, vel disiuncta conjungenda, vel ordo mutandus. Definitionum, pro-
+positionum, theorematum seriem >continuo numero sum complexus, ‘ut in Diop-
+tricis feci, propter allegationum commoditatem3 in ipsis etiam lemmatibus non
+accuratus fui nec nimium de vocabulis sollicitus, magis in res ipsas intentus,
+quippe qui non jam in philosophia geometram, sed in hac geometriae parte
+philosophum agam. Atque utinam de rebus geometricis adhuc popularius,
+dummodo et clarius et palpabilius disserere potuissem. Sed spero, lectores
+aequos in utraque re, et quod geometrica populariter trado, ets quod materiae
+obscuritatem industria vincere non potui, meam operam boni consulturos. Qui-
+bus etiam hoc ad extremum do consilii, ut si mathematicamm rerum penitus
+imperiti suerint, transmissis enarrationibus meis solas legant propositiones -a
+XXX. usque ad finem, et fide propositionibus ipsis adhibita sine demonstra-
+tione, pergant ad libros ceteros, praesertim ad ultimum; ne difficultate geo-
+metricarum argumentationum absterriti fructu sese privent harmonicae con-
+templationis jucundissimo. Nunc ad rem accedamus cum Deo.
+
+——h
+
+De Figu'rarum Regularium demonstrationibus
+
+Ι. Definitio. Plana figura regularis illa dicitur,
+quae omnia latera et omnes angulos, extrorsum versos,
+aequales habet. ’
+
+Ut hic QPRO: latera QP, PR, ΒΟ, OQ sunt aequalia et
+μ anguli QPR, PRO ‚ ROQ, OQP aequales. ”
+
+Π. Definitio. Earum quaedam sunt primae et ra-
+dicales, quae suos ipsae terminos non excedunt, quibus
+proprie 'convenit posita definitio: quaedam sunt auctae, quae sua veluti latera
+
+{xcedunss continuatis alicujus radicalis lateribus non contiguis ad concursum}
+icuntur stellae.
+
+ 
+
+Εἰς. 3. Ut hic ABCDE est perfectum quin-
+Α quangulum estque figura prima, non de—
+siderans aliam perfectam, ex qua con-
+tinuatione laterum producatur.
+12 Β At FGHIK est quinquangula et
+
+figura aucta, continuatis lateribus binis
+
+non contiguis, verbi causa AB et Dc
+ad concursum Ι.
+
+ 
+

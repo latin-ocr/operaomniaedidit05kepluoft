@@ -1,0 +1,86 @@
+116 De Figuratum Han-monimum ⁴
+
+Fit enim figura illic parti quam toti, hic planae quam solidae similior, cum
+
+1
+Ι
+i
+
+Ι
+
+omnis solida ad minimum 4 superficiebus terminetur Ut in typis ex aere sequenti· ᾗ
+bus ad literas A, B, ubi maj0r figura est heptagonus, Classes istae duae cum ipso· .
+rum maioris figurae laterum numero excurrunt in infinitum, initio facte a trigono ’
+utrinque, quod in classe A, est ex perfectissimis regula-ribus congruentiis, transitu vero J
+facto per tetragonum et tuuc in classe B, incidimus iterum in unam perfectissimam
+
+regularem congruentiam, ceterae omnes imperfectae sunt.
+
+XI. Definitio. Semisolida est, quae non sustinet omnes definitionis j
+quintae particulas3 ut cum aptatis figuris planis, congruentia non plane in se 5
+
+ipsam redit, sed relinquit hiatus, de cetero tuearis praescripta def. 6 et ‘'I.
+XII. Definitio. Figurae planae congruae sunt, quae vel solidam figu-
+
+ram concludunt, vel planitiem sine hiatu explent, existentes ipsae figurae re·-¹
+
+gulares vel semiregulares.
+
+XIII. Des initio. Incongruae dicantur illae figurae planae :regulares cir-
+culoque inscriptae (siquidem sunt inscriptiles), quae neque solidam figuram
+sphaerico ins-criptilem secum ipsae, aut cum aliis suae vel alterius classis ef-
+formant, nisi imperfectam tantum, neque planum sternunt vel ipsae inter se
+
+singulae, vel cum stellis suae classis, vel cum figuris et stellis classis alterius·
+
+οἰῐῴηῑιῖῗίῐξιῖῐα, excludi septangulum et talia, non obstante, quod bina parallela sept.
+angula vel 7 quadratis, vel 14 triangulis adjuta regularibus solidum omnino clau-
+dunt3 quia tantum bina septangula concurrunt, fitque figura disciformis et planae si-
+
+milis, nequaquam vero globiformis‚ sphaeroides. Vide in figura fol. seq. literas·
+
+A, Β. Sic etiam excluditur quindecangulum, ιιοιι obstante, quod aliquibus angulis cum
+figuris cognatis locum in plano explet; quia hoc non facit circumcirca omnibus angulis.
+
+XIV. Propositio. Angulorum planorum non pauciores quam terni in ¹=
+
+plano congruunt.
+
+Nam circa quodlibet concursus punctum est summa quatuor rectorum angulorum: ’
+
+at nullius figurae angulus aequat summam duorum rectorum, igitur duo quanticunque
+anguli sunt adhuc minores quatuor rectis: duo igitur non explent planitiem, per def. 1.
+
+XV.Propos1t10 Angulorum planorum non pauciores quam terni ad
+solidum angulum formandum congruunt vel assurgunt.
+
+Bini enim non lateribus tantum, sed totis planitiebus congruerent nihilque de
+corpore solido complecterentur: quod est contra def anguli solidi apud Euclidem.
+
+, XVI. Propositio. Angulorum in plano congruentium summa semper
+est 4 rectorum, nunquam major: congruentium in solido est minorhac summa.
+Ιιι plano ιι. ιιοιι plures 4 rectis unum punctum circumstant: ergo cum aequatur
+summa 4 rectorum, tunc hiatus nullus relinquitur, et per def. 1. congruentia tunc
+es't in plano. Si pl’anum sternunt anguli, ad soliditatem ιιοιι assurgunt. Et viciam,
+si anguli aptati in plano relinquunt hiatum⁷ quando sc. sunt minores 4 rectis, tunc
+adductis duobus lateribus circa hiatum et excluso hiatu necesse est assurgere angu-
+
+lum et solidari. In figura H typi aenei fol. seq. sunt picti tres pentagoni in plani- ⁷
+
+tiem strati et hiantes.
+XVH. Pro p o sitio. Figura imparilatera‚ cujus aptantur lateribus figurae
+
+duarumxspecierum, non potest aequali forma omnibus angulis concurrere vel in‘
+
+plano vel 'in solido.
+
+Nam fit in uno ipsius angulorum, ut eJusdem speciei figurae utrinque stent, quod ι
+
+in ceteris angulis non fit. Hujus rei causa vide figuram C typi aenei seq.
+
+XVIII. P r op osit io. Planum locum perfectissime· explent plana ejtlsdem
+
+figurae tantum tria: trigoni seni, tetragoni quaterni, hexagoni terni.
+Nam per I. 33. hujus trigoni angulus est ξ unius recti, sex ergo anguli senorum
+trigonorum sunt Ψ, id est 4 integri. Vide D.
+

@@ -1,0 +1,59 @@
+90 De figurarum Harmonicarum
+
+opera planum formabant, ex quo in quadratum redacto nascebatur linea, dicta
+mese: ,sic jam duae rectae, tota et pars una, formant ipsam partem alteram
+subtrahendo, vel duae partes formant totam addendo. Illic rectae formantes
+erant inter se commensurabiles sola potentia, hic missa commensuratione,
+succedit proportionis identitas inter totum et partes. Illic proportionis simili-
+tudo erat inter minorem et faciendam interque faciendam et maiorem, hic etiam
+est proportionis similitudo inter faciendas duas interque earum unam et pro-
+positam totam, in abstractione: in compositione vero inter faciendarum unam et
+propositam interque propositam et faciendam alteram. Illic igitur datis dua-
+, bus dabatur rectangulum aequale quadrato faciendae et sic planum ante li-
+neam: hic e contrario, factis duabus faciendis, sequitur demum aequalitas
+inter rectangulum extremarum et quadratum mediae (Eucl. VI. 17. et H. 11.).
+
+Illic rectae formantes quadrata habebant commensurabilia quadrato rectae
+propositae; hic docet Euclides, VI. 30, et sumere quadratum, propositae qua-
+drato commensurabile‚ sc. sesquintuplum ejus, et ab huJus quadrati latere
+auferre semissem propositae, ut restet pars in proposita statuenda, qua parte
+de proposita ablata, relinquebatur pars altera requisita (vel ad totam addita
+fiebat etiam tertia requisita) Et tot nominibus partes hae videntur accensen-
+dae gradui quarto.
+
+In hoc vero puncto nobilior ipsa mese redditur linea, quamcunque oecu-
+paverit ista proportio: quod mese longiori catena, ex quatuor articulis com-
+posita, dependet ab effabili proposita, hujus vero partes nituntur proportione
+sua, quam habent immediate ad ipsam effabilem propositam. quue fit, ut
+meson possint esse multae, eodem omnes gradu distantes ab effabili, pars vero
+major in hac proportione ipsius effabilis una sola sit et omnino cujusque lineae
+post effabilem una singularis. Quo nomine aequiparatur ejus demonstratio
+primo quodammodo gradui.
+
+Quando igitur proposita recta jubetur esse tota ejusque duae tales partes
+quaeruntur, tunc haec geometris dicitur sectio secundum extrema et medium.
+Nimirum hoc sibi vult nomen, quod cum alias vulgaris sectio totius in par-
+tes duas uon respiciat proportionem, aut si ad totam aliqua comparetur in ea
+proportione, in qua est minor pars ad majorem, tunc fiant quatuor termini,
+duo extremi et duo medii: hic contra fiant tantum tres termini, tota quidem
+et pars minor, duo extremi, pars vero maj0r medius terminus unicus.
+
+Dicitur etiam eadem de eausa sectio proportionalis. Hodierni et sectio-
+nem et proportionem ejus cognominant divinam, propter admirabile ejus in-
+genium et multiplicia privilegia, quorum praecipuum est, quod semper parte
+majori ad totam addita, composita rursum est similiter secta3 et quae pars
+maj0r erat, jam fit minor, quae tota, jam maJ'or pars fit compositae, per Ι
+
+XIII. 5. Euclidis.
+XXVH. Pro positio. Cum autem sectio talis in omnibus lineis locum
+
+habeat, in effabili longitudine, in effabili sola potentia, in mese, in duodecim
+reliquis speciebus recensitis, in aliis omnibus: nos in praesenti opere duabus
+solis ejus speciebus habemus opus, quae cum speciebus hactenus explicatis
+coincidunt, secundum duas lineas secandas. Nam aut effabilis est illa longi-
+tudinessaut mizon. Quodsi effabilis est longitudine, quae ad secandum pro-
+ponitur, sectae pars major fit apotome quartae speciei, ct respondet ei bino-
+minis ejusdem quartae speciei, communia cum ipsa habensnomina. Sed cave
+confundaris, pars quidem major illa dicitur relatione ad propositam, at eadem
+apotome hic dicitur non relatione ad propositam, sed qualitative. Quodsi
+

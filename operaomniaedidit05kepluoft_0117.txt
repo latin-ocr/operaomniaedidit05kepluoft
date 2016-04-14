@@ -1,0 +1,58 @@
+Denonstntione. Liber 1. 105
+
+mm, scd in quinquangulo duo, in septangulo tres, in nouangulo quatuor et
+sic cousequenter: unns enim valor est Bc, alter BD, tertius BE.
+
+Ut igitur appareat, hoc genus investigandi latera figurae plane nihil
+comune habere cum definitionibus uostris, numero 1, 11, 111. praemissis,
+notabis primo, quid profiteatur haec cossica subtensa Byrgii‘? Nimirum hoc
+illa profitetur, si constituantur septem inter se continue proportionales in ea
+proportione, quam habet latus septanguli ad semidiametrum circuli, quarum
+proportionalium prima sit ipsum septanguli latus: tunc septem primas cum
+septem quintis tantundem efficere, quantum 14 tertias cnm una septima. Hoc
+enunciatum‘ quidem est geometricum et demonstrabile, non minus quam in
+superioribus, quando demonstratum fuit, planum octanguli esse meson, aut
+latus dodecagoni esse alicujus lineae apotomen. Illic enim de plano aut de
+linea aliquid enunciabatur, hic de proportione linearum aliquid enunciatur.
+At sicut nen sufficit mihi ad scientiam etad mensurationem plani, scire illud
+esse meson, non ad lineae mensurationem, scire quod illa sit alicujus apotome:
+cum et multae sint huiusmodi, et descriptio ex hac notitia generali nulla,
+quantitas plani vel lineae nulla certa et determinata eruatur, sed consequantur
+tantummodo hac affectiones antea constitutas et descriptas quantitates: sic
+etiam hic nou sufficit, ut sciam, quid sit futurum, factis septem continue pro·
+portionalibus in proportione, quam desidero, sed cum eam proportionem non·
+dum habeam ullo geometrico actu descriptam, illud igitur exspectabam, ut
+quis me doceret prius illam proportionem constituere. Sic enim in omnibus
+praemissis figuris praecedebat descriptio, inscriptio, determinatio certae quan-
+titatis certusque actus geometricus, quo perficeretur haec determinatim seque·
+batur demum scientia proprietatum illarum, quae faciebant ad comparationem
+inter se figurarum.
+
+“ Ut clarius appareat discrimen utriusque rei, videamus pentagonicum la-
+tus, cujus describendi modus in superioribus hic erat, ut conjunctis quadratis
+duobus, uno semidiametri, altero ejus dimidiae partiS, in formam quadratam,
+ab liujus quadrati latere auferremus dimidiam partem semidiametri, relictae
+lineae quadratum rursum cum quadrato* semidiametri compositum in formam
+redigeremus quadratam, hujus n. quadrati latus fore latus pentagoni. Haec
+omnia erant factu et possibilia et faciliora quam dictu, ut norunt, qui circinos
+tractant. Quid n. facilius, quam rectum angulum GAM (Fig. 8) facere, et
+in ejus cruribus signare utx lubet AM ejusque duplam AG, et posito pede
+circini uno in M, altero in G extenso, scribere circulum GP, continuata MA
+in P, denique GP circino comprehendere, et in alium circulum, cnjus GA se-
+midiameter, inferre?
+
+At vide nuuc, quid nobis de latere pentagonico dieat cossa Byrgiana.
+Illa methodo prius deducta prodit numerum 5¹—5m 4- lv aequalem subtensae
+nulli3 id est si quinque fiant ordine continuo proportionales, quarum prima
+sit latus pentagoni, proportio vero sit illa, quae est lateris pentagonici ad
+semidiametrum, tunc quinque primas cum uua quinta sore aequales quin-
+que tertiis.
+
+Ι Rursum, nt in septangulo, non docet constituere continuam proportionem,
+
+in qua hoc fiat, nec exprimit longitudinem proportionalium per ante nota, sed
+docet, ea constituta, quae sequatur affectio. Jubeor igitur repraesentare affec-
+tionem, fore enim, ut babeam et proportionem. At quomodo repraesentabo
+affectionem, quo actu geometrico? Nullo alio id doceor facere, quam usur-
+pando proportionem, quam quaer05 principium petitur et miser calculator, de-
+

@@ -1,0 +1,71 @@
+Demonstration‘e. Liberl. 91
+
+quaere, 'enjus sit apotome, respondetur, quod sit apotome alicujus, quae sola po-
+
+tentia ’σοι commensurabilis propositae, quae sc. potest sesquiquartum propositae.
+sit· GA proposita ad secandum sitque ehbssis n
+
+longitudine. Fiat rectus angulus GAM et AM sit di· - ⁸ ⁸
+
+nicia ipmus GA, et connexis G, M punctis, centro ace-1·
+
+inte-ullo GM nen'batur semicirculus PGX, et AM con· AR 1¹,-
+tinuatur ιιι ejus circumstantiae puncta P, X, fiat super
+
+PA quadratum Po. Ergo linea GA secta est pro·
+pontimaliteoein puncto 0. HaecigiturAOeet pars
+major sectae proportionaliter GA; at eadem AO vel es
+
+aequalis AP est apotome non ipsius GA, sed ipsius
+MP vel ΜΘ, quae potest tam GA, quam AM illius dimidiam, ut si potentia ipsius GA
+sit 4, erit ipsius AM 1, et ipsius igitur GM potentia erit 5. In quantum igitur AO
+
+vel ΔΡ est apotome, respondet ei binominis AX: suntque nomina ipsius communia
+QrdMPvelMGetAM.
+
+Quod autem AP sit apotome et AX binominis, utraque quartae speciei, sic pro·
+batur. Est enim utrumque nomen effabile et MX et MA3 sunt tamen sola potentia
+mensurabiles, quia Mx (id est MG) potest 5, qualium MA potest 1. At 1 ad 5
+non est ut numerus quadratus ad quadratum. Denique differentia potentiarum 1 et
+5 est 4, numerus quadratus, cujus latus 2 longitudine effabile, aequale sc. ipsi GA
+propositae. Hae vero ,sunt notae speciei quartae binominum, in definitionibus ante
+prop. 74, et apotomarum, ante prop. 85. decimi Euclidis.
+
+Denique si GA effabilis secetur proportionaliter, pars ejus major OA et compo·
+sita ex utraque OA, AG eadunt in gradum scientiae quintum. Nam quadrata ipsarum
+juncta summm faciunt effabilem‚ triplum scilicet ipsius GA effabilis, per XIII. 4 Eu-
+endis. Bectangulum vero etiam effabile fit, quia est aequale quadrato ipsius GA effa-
+bili, eum sit GA media proportionalis inter ΟΔ partem et OA, AG compositam, per
+praemissa ⁶).
+
+XXVIII. Propositio. Vicissim, si aliqua effabilis longitudine sic pro-
+portionaliter fuerit secta, pars eJus minor fit apotome primae speciei.
+
+Ut si effabilis sit GA ut antea, et ejus sectae proportionaliter pars major AO,
+minor OG, erit etiam OG apotome (ΧΠΙ. 6. Euclidis).
+
+Rursum autem OG dicitur apotome qualitative. non relatione ad GA effabilem
+longitudine, cujus est pars minor, nec relatione ad MG vel MP, cnjus ipsa Ao vel AP
+est apotome, sed habet GO nomina peculiaria. Cum enim per X. 97. Euclidis qua·
+dratmn cuiuscunque apotomes et sic etiam quadratum ΡΟ, extensum ad effabilem (ut
+hic ad GT, ipsi GA aequalem), faciat latitudinem GO, primae speciei apotomen: ipsa
+vicissim AO erat apotome speciei quartae. Illius igitur GO nomen majus est effabile
+longitudine, hujus Ao majus nomen MP erat sola potentia effabile. Et vicissim, quia
+, nomina sunt sola potentia commensurabilia, oportet minus nomen seu prosharmozusan
+ipsius GO esse sola potentia effabilem: cum ipsius AO nomen minus AM esset longi-
+tudine effabile· utrique tamen hoc manet, quod differentia quadratorum a nominihus
+Ι descriptorum sit quadratum alicujus effabilis longitudine.
+
+J v Quae autem sint hujus GO, primae apotomes, nomina, relinquo aliis quaerendum.
+Prosharmozusa quidem ipsi GO ut apotomae primae est unica sola per X. 79. Euclidis.
+Quae debet esse talis, ut eJus quadratum sit effabile, non tamen numero quadrato,
+e. ipsa vero cum GO debet facere lineam unam effabilem longitudine, et per X. 30, si
+ex hac una tota fiet diameter circuli, verbi causa'PXs et si prosharmozum, paulo
+[j longior quam PA (siquidem tota esset aequalis ipsi PX) ab uno termino diametri X
+j] 'applicetur circumferentiae XG: tunc quae signa G, P connectit, debet esse ipsi Px
+, toti commensurabilis longitudine.
+
+XXIX. PropositiO. Quando vero secta fuerit proportionaliter aliqua
+mizon, cujus quadratum sit aequale rectangulo sub longitudine, composita ex
+ν ·' proposita effabili et potente ejus quinque quartas et sub latitudine quinque
+

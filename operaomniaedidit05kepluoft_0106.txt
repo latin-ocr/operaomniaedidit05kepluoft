@@ -1,0 +1,74 @@
+94 De Figuram Harmonicarum
+
+gulorum primorum distinctae sunt. Harum prima est, in qua sunt figurae (vel-quasi) ⁴
+
+num'eris laterum hisce: 2, 4, 8, 16, 32 et infinitae3 secunda habet 3, 6, 12, 24, 48, 96
+
+et infinitas; tertia habet 5, 10, 20, 40, 80, 160 et infinitas. Aliae infinitae.
+XXXI. Propositio. Classes figurarum singulas singuli faciunt nu·
+
+meri, laterum duorum primorum (excepto binario) minimi mlsstipliceS.
+
+Sequitur hoc ex definitione ΧΙ. hujus. Nam si figura talis ad demonstrationem
+sui lateris non utitur numero suorum angulorum: est igitur diversa ejus demonstra· g
+tionis forma a superioribus omnibus, quare etiam diversa classis. Exceptus vero fuit ’ἒ
+binarius a genesi novae classis, in primum aliquem multiplicatus: quia bisectio anguli ἒ
+cum sit geometrica, ipsa est, quae classes singulas ex aequo in infinitum prorogat3 ξ
+quod nisi esset, classes nullae essent, sed singulares tantum figurae. Harum prima ³
+
+est 15, 30, 60, 120, 240, 480 etc. multiplicatis 3 in 5. Secunda 21, 42, 84 etc. mul· i
+tiplicatis 3 in 7. Sequuntur infinitae, ut cum 5 in 7 ducitur3 hinc 35, 70, 140 etc. “
+
+XXXII. Propositio. Sed et quadrati primorum numerorum, excepto ³
+
+binarii quadrato et facti a quadratis et alio primo primive quadrato, classes
+gignunt singulas et distinctas a prioribus.
+
+Quod quadratus numeri primi non eandem cum primo classem facit, causa est,
+quia cum p‘rimus ipse novam figurarum classem faciat, dividentium circulum totum,
+per XXX. huJus, jam idem primus non totum, sed partem circuli dividens, omnino
+aliam faciet demonstrationem, siquidem illa possibilis fuerit: cum pars circuli a toto ¹
+multum differat causa speciei figurationisque absolutae, in qua figuratione nunc occu-
+pamur, quippe quae demonstrationem format. ⁴
+
+Quod autem binarii quadratus excipitur, causa est, quia figura, bis duos habens .
+
+angulos, hoc est tetragonus, cadit in classem primam', multiplicatus vero quaternarius v
+
+in primum cadit in primi classem, quia quatuor sunt bis duo: omnis vero figura duplo
+laterum numero eodem refertur, quo figura simplo laterum numero.
+Harum prima est, in qua figurae 9, 18, 36, 72, 144, 288 laterum et infinitae.
+
+Secunda, in qua 25, 50, 100, 200, 400 et infinitae. Tertia, in qua 49, 98 et infinitae. ι
+
+Infinitae aliaeclasses a quadratis: sic 27, 54, 108, 216, 432 et infinitae, ex 3
+
+et 9. Sic 75, 150, 300 et infinitae, ex 3 et 25. Sic 147, 294 et infinitae, ex 3 et 49. ε
+Sic 45, 90, 180, 360 et infinitae, ex 5 et 9. Sic 125, 250, 500, 1000 et infinitae, ex Ἰ
+
+5 et 25. Sic etiam 225, 450, 900 et infinitae ex 9 et 25, duobus quadratis.
+mumPIlriigiarssiitqae aliae classes ex primis in >quadratos aut ex primorum quadratis in se
+
+XXXIII. Propositio. Si a duplo numeri angulorum figurae abstuleris ⁷
+quatuor, formabis numeratorem partium anguli recti, quas valet angulus figu-
+rae, denominator vero partium est ipse numerus angulorum.
+
+Ut in trigono bis tria sunt sex, aufer 4, restant 2. Ergo angulus trigonicus valet
+duas tertias recti. Sic in icosigono bis 20 sunt 40, aufer 4, ergo angulus icosigonicus
+valet 36 vicesimas vel 9 quintas unius recti. Nam quusque figurae anguli distribu-
+untur in totidem triangula, quot habet latera-duobus minus. At cujuslibet trianguli
+anguli valent duos rectos: ergo cujuslibet figurae anguli valent duplo plures rectos,
+quam figura habet angulos, quatuor minus. Hic vero numerus rectorum distribuendus
+est in numerum angulorum figurae, ergo hic denominat, ille numerat partes unius recti.
+
+XXXIV. Propositio. Circulus geometrica descriptione in duo secatur
+aequalia; et linea bisecans illum scitur scientia primi gradus, est enim dia-
+meter ipsa.
+
+Principium enim figurationis in circulo est, ducere rectam lineam per punctum
+imperatum quousque est opus. Recta bisecans circulum est diameter, sc. per centrum
+ducta, quia partium circuli inter se aequalium est maxima semicirculus, linea igitur,
+secans in duos semicirculos, est et ipsa longissima et diameter, per III. 15. et per
+definitionem. Porro diameter est illa ipsa effabilis, proposita pro mensura ceterarum,
+ipsa sibi aequalis suique mensura perfecta, principium scientiae geometricae.
+

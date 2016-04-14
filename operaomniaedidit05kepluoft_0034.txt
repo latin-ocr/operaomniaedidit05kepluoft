@@ -1,0 +1,57 @@
+ι 22 , Epistolae Kepleri aliorumque mutuae
+
+eundem circulum3 sic 15 ex 3 et 5, 20 ex 4 et 5, 24 ex 3 et 8, 30 ex 5
+et 6, 40 ex 5 et 8, 60 ex 5 et 12, 90 ex 6 et 15, 120 ex 8 et 15.
+Denique in infinitum demonstrari possunt omnia regularia, quae habent duplam
+denominationem ad priora, quomodo etiam octangulum demonstratur ex
+quadrangulo, itaque etiam 16, 32 etc. -angulum Jamque rursum possunt
+comparari haec dupla cum iis, quibuscum primi sunt, ut 15 cum 16, hinc
+enim demonstratur 240-angulum.
+
+Haec igitur generalissima est ἐκλογη των δεικτων, adhuc existens infinita3
+estque demonstratio tanto imperfectior, quanto longius ab unitate receditur.
+Itaque alia fiat ἐκλογη earum, quae per se demonstrantur, non ad compara-
+tionem duarum simplicium. Retinebimusque 3, 4, 5, 6, 8, 10 et omnes
+earum duplas in infinitum. Rursum alia fiat ἑκλογη earum, quae non tantum
+non indigent duarum aliarum figurarum comparatione ad sui demonstrationem,
+sed ne una quidem. Hic primum adfinitatem pervenitur, sed restant valde
+paucae. Nam cadunt omnes duplae una cum octangulo, quod modo duplarum
+demonstratur. Quinquangulum vero et decangulum adhuc manent, quia dec-
+angulum etsi >non quadratura demonstratur, at demonstratur sectione propor-
+tionali. Nam si semidiameter secetur proportionaliter, pars major est latus
+decanguli. Ac etsi quinquangulum praesupponit decangulum, facit id tamen
+longo alio modo, quam in modo rejectis, et demonstratio est perfectior. Nam-
+geometra, dicens lat‘us quinquanguli posse latus sexanguli et latus decanguli‚
+loquitur sic per accidens. Non considerantur enim hae duae lineae, quatenus
+constituunt figuras sexangulum ,et decangulum, Rectissime sic diceremus:
+latus quinquanguli potest semidiametrum et ejus proportionaliter.sectae partem
+majorem. Rursum ex his perfectiores, quarum latera sunt λογικα, h. e. δυναμει ,
+ῥητα, manentque 3, 4, 6. Nam decangulum et omnia rejecta latera cum
+subtendentibus angulorum sunt ἄλογα, cum eorum quadrata non sint ῥητα.
+Latus tamen quinquanguli· cum subtendente angulum fit quodammodo δυναμει
+ῥητον et sie λογικον, at non seorsim. Nam si eorum quadrata jungantur,
+fiunt ad quadratum diametri ut 5 ad 4.
+
+Denique ex λογικαις perfectiores sunt ῥηται actu estque unum sexangulum.
+Nam triangulum, quadrangulum non sunt ῥητα actu. Diameter vero ipsa
+sibi aequalis est, perinde et ῥητη et ’λογικη et ἀποδεικτικη etc., utpote per
+identitatem est sensilis sine demonstratione. ·
+
+Habemus omnes ἐκλογας planorum regularium, quae omnia etiam de
+subtendentibus angulis sunt intelligenda. Nam in triangulo latus ipsum sub-
+tendit angulum, in quadrangulo diameter, in quinquangulo latus stellae quin-
+quangularis, in sexangulo latus trigoni, in octangulo latus quadrati,' m decangulo
+latus stellae decangularis: quae recipiunt easdem demonstrationes cum lateribus.
+Nam subtendens ³s10 aequat longitudine semidiametrum ejusque partem majorem
+proportionaliter sectae: sic igitur minore parte proportionali aequat suum latus,
+sicut stella quinquangularis majore parte proportionali aequat suum latus3 de
+ceteris per se patet.
+
+Jam et hoc probabile est, quemadmodum 5 corpora non dant ipsa
+formam coelis, sed ex magnitudine orbis inscripti ad circumscriptum orta est
+coelorum quantitas: sic ne plana quidem ipsa per se considerata largiri motibus
+quaesitos λογους, sed comparati ad circulum, sicut solida ad sphaericum, ut
+hoc sit λογος, si pars aliqua circuli per latus resecta ad circulum totum com-
+paretur. Hoc si faciamus in figuris et subtensis modo inventis, post reJectam
+infinitatem, talia fient nomina proportionum: ‘s¹ (in circulo enim non diviso
+
